@@ -1,0 +1,5967 @@
+[
+    {
+        "linkedin_id": "2155",
+        "name": "DuPont",
+        "industry": "Manufacturing",
+        "url": "http://www.dupont.com"
+    },
+    {
+        "linkedin_id": "1033",
+        "name": "Accenture",
+        "industry": "Business Consulting and Services",
+        "url": "http://www.accenture.com"
+    },
+    {
+        "linkedin_id": "3690",
+        "name": "Micron Technology",
+        "industry": "Semiconductor Manufacturing",
+        "url": "http://www.micron.com"
+    },
+    {
+        "linkedin_id": "2458",
+        "name": "Zurich Insurance",
+        "industry": "Insurance",
+        "url": "http://www.zurich.com/social-media"
+    },
+    {
+        "linkedin_id": "1662",
+        "name": "L'Or\u00e9al",
+        "industry": "Personal Care Product Manufacturing",
+        "url": "http://www.loreal.com"
+    },
+    {
+        "linkedin_id": "2562",
+        "name": "Dow",
+        "industry": "Chemical Manufacturing",
+        "url": "http://www.dow.com"
+    },
+    {
+        "linkedin_id": "11352",
+        "name": "Project Management Institute",
+        "industry": "Professional Training and Coaching",
+        "url": "http://www.pmi.org"
+    },
+    {
+        "linkedin_id": "28893",
+        "name": "Forever 21",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.forever21.com"
+    },
+    {
+        "linkedin_id": "15560",
+        "name": "AngloGold Ashanti",
+        "industry": "Mining",
+        "url": "http://www.anglogoldashanti.com"
+    },
+    {
+        "linkedin_id": "5849",
+        "name": "Dow Performance Silicones",
+        "industry": "Chemical Manufacturing",
+        "url": "https://www.dow.com"
+    },
+    {
+        "linkedin_id": "2087",
+        "name": "Volvo Group",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.volvogroup.com"
+    },
+    {
+        "linkedin_id": "6976",
+        "name": "Carnival Cruise Line",
+        "industry": "Travel Arrangements",
+        "url": "https://jobs.carnival.com/"
+    },
+    {
+        "linkedin_id": "3411",
+        "name": "Georgia-Pacific LLC",
+        "industry": "Paper and Forest Product Manufacturing",
+        "url": "http://www.gp.com"
+    },
+    {
+        "linkedin_id": "6223",
+        "name": "GameStop",
+        "industry": "Retail",
+        "url": "http://www.gamestop.com"
+    },
+    {
+        "linkedin_id": "164175",
+        "name": "Henry Schein",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.henryschein.com"
+    },
+    {
+        "linkedin_id": "164178",
+        "name": "Herman Miller",
+        "industry": "Furniture and Home Furnishings Manufacturing",
+        "url": "http://www.hermanmiller.com"
+    },
+    {
+        "linkedin_id": "8591",
+        "name": "Center for Creative Leadership",
+        "industry": "Professional Training and Coaching",
+        "url": "http://www.ccl.org"
+    },
+    {
+        "linkedin_id": "8885",
+        "name": "Polaris Inc.",
+        "industry": "Manufacturing",
+        "url": "http://www.Polaris.com/careers"
+    },
+    {
+        "linkedin_id": "3678",
+        "name": "Corning Incorporated",
+        "industry": "Glass, Ceramics and Concrete Manufacturing",
+        "url": "https://www.corning.com"
+    },
+    {
+        "linkedin_id": "6536",
+        "name": "Ansys",
+        "industry": "Software Development",
+        "url": "https://www.ansys.com"
+    },
+    {
+        "linkedin_id": "5820",
+        "name": "Chili's",
+        "industry": "Restaurants",
+        "url": "http://www.chilisjobs.com"
+    },
+    {
+        "linkedin_id": "8934",
+        "name": "Geek Squad",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.geeksquad.com"
+    },
+    {
+        "linkedin_id": "9919",
+        "name": "Hard Rock International",
+        "industry": "Hospitality",
+        "url": "http://www.hardrock.com"
+    },
+    {
+        "linkedin_id": "2230",
+        "name": "Hanesbrands Inc.",
+        "industry": "Manufacturing",
+        "url": "http://www.hanesbrands.com"
+    },
+    {
+        "linkedin_id": "162476",
+        "name": "APICS",
+        "industry": "Non-profit Organization Management",
+        "url": "https://www.ascm.org/"
+    },
+    {
+        "linkedin_id": "3200",
+        "name": "Volkswagen Group",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.volkswagenag.com/en.html"
+    },
+    {
+        "linkedin_id": "4804",
+        "name": "Atlas Copco",
+        "industry": "Machinery Manufacturing",
+        "url": "https://www.atlascopco.com/en-uk/sys/in-your-country"
+    },
+    {
+        "linkedin_id": "4275",
+        "name": "Vestas",
+        "industry": "Renewable Energy Equipment Manufacturing",
+        "url": "http://www.vestas.com/"
+    },
+    {
+        "linkedin_id": "162647",
+        "name": "Barilla Group",
+        "industry": "Food and Beverage Manufacturing",
+        "url": "http://www.barillagroup.com"
+    },
+    {
+        "linkedin_id": "6884",
+        "name": "Oxfam",
+        "industry": "Non-profit Organizations",
+        "url": "http://www.oxfam.org.uk"
+    },
+    {
+        "linkedin_id": "6428",
+        "name": "Hatch",
+        "industry": "Professional Services",
+        "url": "http://www.hatch.com"
+    },
+    {
+        "linkedin_id": "9774",
+        "name": "Harrods",
+        "industry": "Retail",
+        "url": "https://www.harrodscareers.com"
+    },
+    {
+        "linkedin_id": "2775365",
+        "name": "Accenture Brasil",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/br-pt"
+    },
+    {
+        "linkedin_id": "24898",
+        "name": "CIPD",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.org/en/"
+    },
+    {
+        "linkedin_id": "157301",
+        "name": "Toshiba",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "https://www.toshiba.com"
+    },
+    {
+        "linkedin_id": "164713",
+        "name": "LEO Pharma",
+        "industry": "Pharmaceutical Manufacturing",
+        "url": "http://www.leo-pharma.com/"
+    },
+    {
+        "linkedin_id": "7673",
+        "name": "Cirque du Soleil Entertainment Group",
+        "industry": "Entertainment Providers",
+        "url": "http://www.cirquedusoleil.com"
+    },
+    {
+        "linkedin_id": "165265",
+        "name": "O Botic\u00e1rio",
+        "industry": "Personal Care Product Manufacturing",
+        "url": "http://www.oboticario.com.br"
+    },
+    {
+        "linkedin_id": "12780",
+        "name": "Costa Crociere S.p.A.",
+        "industry": "Travel Arrangements",
+        "url": "https://career.costacrociere.it/"
+    },
+    {
+        "linkedin_id": "4389",
+        "name": "Coloplast",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.coloplast.com"
+    },
+    {
+        "linkedin_id": "162813",
+        "name": "BSI",
+        "industry": "International Trade and Development",
+        "url": "https://www.bsigroup.com"
+    },
+    {
+        "linkedin_id": "21108",
+        "name": "River Island",
+        "industry": "Retail",
+        "url": "https://careers.riverisland.com/"
+    },
+    {
+        "linkedin_id": "1205858",
+        "name": "MSC Cruises",
+        "industry": "Travel Arrangements",
+        "url": "http://www.msccruises.com/"
+    },
+    {
+        "linkedin_id": "9024",
+        "name": "City of Calgary",
+        "industry": "Government Administration",
+        "url": "http://www.calgary.ca"
+    },
+    {
+        "linkedin_id": "3107982",
+        "name": "Accenture M\u00e9xico",
+        "industry": "Business Consulting and Services"
+    },
+    {
+        "linkedin_id": "2795",
+        "name": "APC by Schneider Electric",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.apc.com/"
+    },
+    {
+        "linkedin_id": "19223",
+        "name": "Rosewood Hotels & Resorts",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com"
+    },
+    {
+        "linkedin_id": "8641",
+        "name": "HT Media Group",
+        "industry": "Media Production",
+        "url": "http://www.htmedia.in/"
+    },
+    {
+        "linkedin_id": "45763",
+        "name": "Alexander McQueen",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "https://www.alexandermcqueen.com/"
+    },
+    {
+        "linkedin_id": "10042",
+        "name": "HEMA",
+        "industry": "Retail",
+        "url": "http://www.hema.com"
+    },
+    {
+        "linkedin_id": "26776",
+        "name": "Bunnings",
+        "industry": "Retail",
+        "url": "http://www.bunnings.com.au"
+    },
+    {
+        "linkedin_id": "28549",
+        "name": "Teknosa",
+        "industry": "Retail",
+        "url": "http://www.teknosa.com"
+    },
+    {
+        "linkedin_id": "5196",
+        "name": "Coop Danmark",
+        "industry": "Retail",
+        "url": "http://om.coop.dk"
+    },
+    {
+        "linkedin_id": "25030011",
+        "name": "Accenture Federal Services",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.accenturefederal.com"
+    },
+    {
+        "linkedin_id": "85405652",
+        "name": "Accenture Song",
+        "industry": "Marketing Services",
+        "url": "https://www.accenture.com/Song"
+    },
+    {
+        "linkedin_id": "10281",
+        "name": "Lincoln Electric",
+        "industry": "Machinery Manufacturing",
+        "url": "http://www.lincolnelectric.com"
+    },
+    {
+        "linkedin_id": "39750",
+        "name": "Sitecore",
+        "industry": "Software Development",
+        "url": "https://www.sitecore.com"
+    },
+    {
+        "linkedin_id": "9864",
+        "name": "Levy Restaurants",
+        "industry": "Food & Beverages",
+        "url": "http://www.levyrestaurants.com"
+    },
+    {
+        "linkedin_id": "17663",
+        "name": "Corsair",
+        "industry": "Computer Hardware Manufacturing",
+        "url": "http://www.corsair.com"
+    },
+    {
+        "linkedin_id": "166821",
+        "name": "VITAS Healthcare",
+        "industry": "Hospitals and Health Care",
+        "url": "https://www.vitas.com"
+    },
+    {
+        "linkedin_id": "9170",
+        "name": "GAF",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.gaf.com"
+    },
+    {
+        "linkedin_id": "38687",
+        "name": "Cannondale",
+        "industry": "Sporting Goods Manufacturing",
+        "url": "http://cannondale.com"
+    },
+    {
+        "linkedin_id": "8419",
+        "name": "The Toro Company",
+        "industry": "Machinery Manufacturing",
+        "url": "http://www.thetorocompany.com"
+    },
+    {
+        "linkedin_id": "24034",
+        "name": "MSC Industrial Supply Co.",
+        "industry": "Wholesale",
+        "url": "http://www.mscdirect.com"
+    },
+    {
+        "linkedin_id": "542177",
+        "name": "ADI Global Distribution",
+        "industry": "Security and Investigations",
+        "url": "https://www.adiglobal.com/?utm_source=Social&utm_medium=LinkedIn&utm_campaign=LinkedInButton"
+    },
+    {
+        "linkedin_id": "18915",
+        "name": "Taylor Morrison",
+        "industry": "Real Estate",
+        "url": "http://www.taylormorrison.com"
+    },
+    {
+        "linkedin_id": "15691",
+        "name": "Interstate Batteries",
+        "industry": "Manufacturing",
+        "url": "https://www.interstatebatteries.com"
+    },
+    {
+        "linkedin_id": "18704",
+        "name": "Pens.com",
+        "industry": "Advertising Services",
+        "url": "https://www.pens.com"
+    },
+    {
+        "linkedin_id": "2910408",
+        "name": "Bloomin'\u200b Brands, Inc.",
+        "industry": "Restaurants",
+        "url": "http://www.bloominbrands.com"
+    },
+    {
+        "linkedin_id": "5253342",
+        "name": "DuPont Water Solutions",
+        "industry": "Environmental Services",
+        "url": "https://www.dupont.com/water.html"
+    },
+    {
+        "linkedin_id": "243204",
+        "name": "Integrant, Inc.",
+        "industry": "Software Development",
+        "url": "https://www.integrant.com"
+    },
+    {
+        "linkedin_id": "14967",
+        "name": "HealthStream",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.healthstream.com/"
+    },
+    {
+        "linkedin_id": "53959",
+        "name": "ATI",
+        "industry": "Aviation and Aerospace Component Manufacturing",
+        "url": "http://www.atimaterials.com"
+    },
+    {
+        "linkedin_id": "46646",
+        "name": "HuFriedyGroup",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.hufriedygroup.com"
+    },
+    {
+        "linkedin_id": "345295",
+        "name": "Pet Supplies Plus",
+        "industry": "Retail",
+        "url": "http://www.petsuppliesplus.com"
+    },
+    {
+        "linkedin_id": "62138",
+        "name": "BISSELL Homecare, Inc.",
+        "industry": "Manufacturing",
+        "url": "http://www.bissell.com"
+    },
+    {
+        "linkedin_id": "16150",
+        "name": "TechSoup",
+        "industry": "Non-profit Organizations",
+        "url": "https://linktr.ee/techsoup"
+    },
+    {
+        "linkedin_id": "9425",
+        "name": "Fellowes Brands",
+        "industry": "Manufacturing",
+        "url": "https://www.fellowes.com/"
+    },
+    {
+        "linkedin_id": "12553",
+        "name": "Moxie",
+        "industry": "Advertising Services",
+        "url": "http://www.moxieusa.com"
+    },
+    {
+        "linkedin_id": "1054905",
+        "name": "Trinseo",
+        "industry": "Chemical Manufacturing",
+        "url": "http://www.Trinseo.com"
+    },
+    {
+        "linkedin_id": "12230",
+        "name": "American Management Association",
+        "industry": "Education Administration Programs",
+        "url": "http://www.amanet.org"
+    },
+    {
+        "linkedin_id": "14926",
+        "name": "Jockey International, Inc.",
+        "industry": "Retail",
+        "url": "http://www.jockey.com"
+    },
+    {
+        "linkedin_id": "52424",
+        "name": "NAIOP",
+        "industry": "Non-profit Organization Management",
+        "url": "http://www.naiop.org"
+    },
+    {
+        "linkedin_id": "25089",
+        "name": "RBA, Inc.",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.rbaconsulting.com"
+    },
+    {
+        "linkedin_id": "31134",
+        "name": "International Code Council",
+        "industry": "Non-profit Organizations",
+        "url": "https://linktr.ee/intlcodecountil"
+    },
+    {
+        "linkedin_id": "7397",
+        "name": "MetroPCS",
+        "industry": "Telecommunications",
+        "url": "http://www.metropcs.com"
+    },
+    {
+        "linkedin_id": "210831",
+        "name": "Indian Motorcycle Company",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.indianmotorcycle.com"
+    },
+    {
+        "linkedin_id": "134869",
+        "name": "Grimco, Inc.",
+        "industry": "Wholesale",
+        "url": "http://www.grimco.com"
+    },
+    {
+        "linkedin_id": "17574",
+        "name": "Build-A-Bear Workshop",
+        "industry": "Retail",
+        "url": "http://www.buildabear.com/"
+    },
+    {
+        "linkedin_id": "10147",
+        "name": "Famous Footwear",
+        "industry": "Retail",
+        "url": "http://jobs.famous.com"
+    },
+    {
+        "linkedin_id": "3698",
+        "name": "Rohm and Haas",
+        "industry": "Chemical Manufacturing",
+        "url": "http://www.rohmhaas.com"
+    },
+    {
+        "linkedin_id": "35889",
+        "name": "California Chamber of Commerce",
+        "industry": "Government Relations Services",
+        "url": "http://www.CalChamber.com"
+    },
+    {
+        "linkedin_id": "119706",
+        "name": "Pet Supermarket",
+        "industry": "Retail",
+        "url": "https://www.petsupermarket.com"
+    },
+    {
+        "linkedin_id": "131244",
+        "name": "VEGA Americas, Inc.",
+        "industry": "Industrial Automation",
+        "url": "http://www.vega.com"
+    },
+    {
+        "linkedin_id": "24341",
+        "name": "Joyce Meyer Ministries",
+        "industry": "Religious Institutions",
+        "url": "http://www.joycehasjobs.org"
+    },
+    {
+        "linkedin_id": "16817",
+        "name": "Edward Don & Company",
+        "industry": "Wholesale",
+        "url": "http://www.don.com"
+    },
+    {
+        "linkedin_id": "1748427",
+        "name": "Materion Corporation",
+        "industry": "Manufacturing",
+        "url": "http://www.materion.com"
+    },
+    {
+        "linkedin_id": "54807",
+        "name": "Community Coffee",
+        "industry": "Food and Beverage Services",
+        "url": "http://www.communitycoffee.com"
+    },
+    {
+        "linkedin_id": "164413",
+        "name": "Intermec by Honeywell",
+        "industry": "Computer Hardware Manufacturing",
+        "url": "http://www.honeywellaidc.com"
+    },
+    {
+        "linkedin_id": "40252",
+        "name": "Bare Necessities",
+        "industry": "Retail",
+        "url": "https://www.barenecessities.com/"
+    },
+    {
+        "linkedin_id": "91365362",
+        "name": "Project Management Institute",
+        "industry": "Professional Training and Coaching",
+        "url": "https://www.pmi.org"
+    },
+    {
+        "linkedin_id": "434910",
+        "name": "ANSI - American National Standards Institute",
+        "industry": "Information Services",
+        "url": "https://www.ansi.org"
+    },
+    {
+        "linkedin_id": "137375",
+        "name": "Arke",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.arke.com"
+    },
+    {
+        "linkedin_id": "36992328",
+        "name": "Pearson Clinical Assessments",
+        "industry": "Mental Health Care",
+        "url": "https://www.pearsonassessments.com"
+    },
+    {
+        "linkedin_id": "20621",
+        "name": "Zondervan Publishers",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.zondervan.com"
+    },
+    {
+        "linkedin_id": "88415878",
+        "name": "Accenture Strategy & Consulting",
+        "industry": "Business Consulting and Services",
+        "url": "http://www.accenture.com/accenturestrategy"
+    },
+    {
+        "linkedin_id": "16123991",
+        "name": "Winchester Ammunition",
+        "industry": "Manufacturing",
+        "url": "http://winchester.com"
+    },
+    {
+        "linkedin_id": "3286485",
+        "name": "Healio",
+        "industry": "Software Development",
+        "url": "https://www.healio.com"
+    },
+    {
+        "linkedin_id": "58617",
+        "name": "ComplyRight, Inc.",
+        "industry": "Human Resources Services",
+        "url": "http://www.complyright.com"
+    },
+    {
+        "linkedin_id": "54925",
+        "name": "Everlast Worldwide",
+        "industry": "Sporting Goods Manufacturing",
+        "url": "http://www.everlast.com"
+    },
+    {
+        "linkedin_id": "23992",
+        "name": "Jordan's Furniture",
+        "industry": "Furniture",
+        "url": "http://www.jordans.com"
+    },
+    {
+        "linkedin_id": "12055",
+        "name": "Baker & Taylor",
+        "industry": "Libraries",
+        "url": "http://www.baker-taylor.com"
+    },
+    {
+        "linkedin_id": "65299611",
+        "name": "Lincoln Electric Automation",
+        "industry": "Machinery Manufacturing",
+        "url": "https://www.lincolnelectric.com/en-us/automation/Pages/automation.aspx"
+    },
+    {
+        "linkedin_id": "81200",
+        "name": "Ferno",
+        "industry": "Medical Device",
+        "url": "http://www.ferno.com"
+    },
+    {
+        "linkedin_id": "16069",
+        "name": "Infragistics",
+        "industry": "Software Development",
+        "url": "https://www.infragistics.com"
+    },
+    {
+        "linkedin_id": "165629",
+        "name": "Quill",
+        "industry": "Retail Office Equipment",
+        "url": "http://www.quill.com"
+    },
+    {
+        "linkedin_id": "313822",
+        "name": "Ansys Optics",
+        "industry": "Software Development",
+        "url": "https://www.ansys.com/products/optics"
+    },
+    {
+        "linkedin_id": "57388",
+        "name": "Seattle Foundation",
+        "industry": "Philanthropic Fundraising Services",
+        "url": "http://www.seattlefoundation.org"
+    },
+    {
+        "linkedin_id": "250101",
+        "name": "Sam Edelman",
+        "industry": "Retail",
+        "url": "http://www.samedelman.com"
+    },
+    {
+        "linkedin_id": "4942",
+        "name": "Genencor",
+        "industry": "Biotechnology Research",
+        "url": "http://www.genencor.com"
+    },
+    {
+        "linkedin_id": "83570",
+        "name": "Climb Channel Solutions NA",
+        "industry": "Software Development",
+        "url": "http://www.climbcs.com"
+    },
+    {
+        "linkedin_id": "225285",
+        "name": "A.T. Cross Company",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "http://www.cross.com"
+    },
+    {
+        "linkedin_id": "43330",
+        "name": "SHOES.COM",
+        "industry": "Technology, Information and Internet",
+        "url": "http://www.shoes.com"
+    },
+    {
+        "linkedin_id": "166175",
+        "name": "Stream (Stream Energy)",
+        "industry": "Utilities",
+        "url": "https://mystream.com/"
+    },
+    {
+        "linkedin_id": "352013",
+        "name": "Emerson Ecologics",
+        "industry": "Wellness and Fitness Services",
+        "url": "https://emersonecologics.com/"
+    },
+    {
+        "linkedin_id": "8116",
+        "name": "RDA",
+        "industry": "Information Technology & Services",
+        "url": "http://www.rdacorp.com"
+    },
+    {
+        "linkedin_id": "699916",
+        "name": "Knowledgent",
+        "industry": "Information Technology & Services",
+        "url": "https://www.accenture.com/us-en/services/technology/enterprise-data-management"
+    },
+    {
+        "linkedin_id": "409571",
+        "name": "Tervis",
+        "industry": "Retail",
+        "url": "http://www.tervis.com"
+    },
+    {
+        "linkedin_id": "53449",
+        "name": "SLACK Journals",
+        "industry": "Periodical Publishing"
+    },
+    {
+        "linkedin_id": "95627",
+        "name": "Sweet Street",
+        "industry": "Food and Beverage Manufacturing",
+        "url": "https://linktr.ee/sweetstreetdesserts"
+    },
+    {
+        "linkedin_id": "71105",
+        "name": "State Bar of Wisconsin",
+        "industry": "Legal Services",
+        "url": "http://www.wisbar.org/"
+    },
+    {
+        "linkedin_id": "121636",
+        "name": "Rosewood Sand Hill",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/sandhill"
+    },
+    {
+        "linkedin_id": "1316978",
+        "name": "Elite Sportswear, LP",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.gkelite.com"
+    },
+    {
+        "linkedin_id": "164296",
+        "name": "IEG",
+        "industry": "Advertising Services"
+    },
+    {
+        "linkedin_id": "9236017",
+        "name": "The Carlyle, A Rosewood Hotel",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/the-carlyle-new-york"
+    },
+    {
+        "linkedin_id": "1310886",
+        "name": "Bobrick Washroom Equipment, Inc",
+        "industry": "Retail Office Equipment",
+        "url": "http://www.bobrick.com"
+    },
+    {
+        "linkedin_id": "85677",
+        "name": "Georgia Pacific",
+        "industry": "Paper and Forest Product Manufacturing",
+        "url": "http://www.gp.com"
+    },
+    {
+        "linkedin_id": "767967",
+        "name": "Trendway Corporation",
+        "industry": "Furniture and Home Furnishings Manufacturing",
+        "url": "https://www.fellowes.com/us/en"
+    },
+    {
+        "linkedin_id": "670210",
+        "name": "SpiderCloud Wireless, Inc",
+        "industry": "Wireless Services",
+        "url": "http://www.spidercloud.com"
+    },
+    {
+        "linkedin_id": "1666689",
+        "name": "Gold Bond, Inc",
+        "industry": "Advertising Services",
+        "url": "https://rebrandly.goldbondinc.com/SoMe-50-OFF"
+    },
+    {
+        "linkedin_id": "16642",
+        "name": "Class C Solutions Group",
+        "industry": "Transportation, Logistics, Supply Chain and Storage",
+        "url": "https://classc.mscdirect.com/"
+    },
+    {
+        "linkedin_id": "20334",
+        "name": "AuthorHouse",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.authorhouse.com"
+    },
+    {
+        "linkedin_id": "16219115",
+        "name": "Rosewood Miramar Beach",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/miramar-beach-montecito"
+    },
+    {
+        "linkedin_id": "677441",
+        "name": "BOSS SNOWPLOW",
+        "industry": "Manufacturing",
+        "url": "http://www.bossplow.com"
+    },
+    {
+        "linkedin_id": "374342",
+        "name": "Crane Stationery",
+        "industry": "Printing Services",
+        "url": "http://www.crane.com"
+    },
+    {
+        "linkedin_id": "2053601",
+        "name": "Empresario Independiente - Generaci\u00f3n Y",
+        "industry": "Manufacturing",
+        "url": "http://www.amway.com"
+    },
+    {
+        "linkedin_id": "9215331",
+        "name": "Accenture in India",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.accenture.com/india"
+    },
+    {
+        "linkedin_id": "1766542",
+        "name": "DirectBuy",
+        "industry": "Retail",
+        "url": "http://www.directbuy.com"
+    },
+    {
+        "linkedin_id": "10332319",
+        "name": "Accenture in the Philippines",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.accenture.com/people-stories"
+    },
+    {
+        "linkedin_id": "140310",
+        "name": "Borsheims",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "https://www.borsheims.com"
+    },
+    {
+        "linkedin_id": "9332486",
+        "name": "Accenture Australia",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/au-en"
+    },
+    {
+        "linkedin_id": "3733171",
+        "name": "Accenture UK & Ireland",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.accenture.co.uk"
+    },
+    {
+        "linkedin_id": "43756",
+        "name": "Bound Tree Medical",
+        "industry": "Medical Device",
+        "url": "http://www.boundtree.com"
+    },
+    {
+        "linkedin_id": "3790748",
+        "name": "Accenture France",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.accenture.com/fr-fr"
+    },
+    {
+        "linkedin_id": "9385515",
+        "name": "Hindustan Times",
+        "industry": "Newspaper Publishing",
+        "url": "http://www.hindustantimes.com"
+    },
+    {
+        "linkedin_id": "52310",
+        "name": "KUKA",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "http://www.kuka.com"
+    },
+    {
+        "linkedin_id": "150890",
+        "name": "Hepsiburada (NASDAQ: HEPS)",
+        "industry": "Technology, Information and Internet",
+        "url": "http://www.hepsiburada.com"
+    },
+    {
+        "linkedin_id": "1204885",
+        "name": "Deublin Company",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.deublin.com"
+    },
+    {
+        "linkedin_id": "1539025",
+        "name": "Yemeksepeti",
+        "industry": "Technology, Information and Internet",
+        "url": "http://www.yemeksepeti.com"
+    },
+    {
+        "linkedin_id": "619661",
+        "name": "EGYPTAIR",
+        "industry": "Airlines and Aviation",
+        "url": "https://www.egyptair.com"
+    },
+    {
+        "linkedin_id": "3107626",
+        "name": "Bossard Americas",
+        "industry": "Transportation, Logistics, Supply Chain and Storage",
+        "url": "http://www.bossard.com"
+    },
+    {
+        "linkedin_id": "12446",
+        "name": "Circle K",
+        "industry": "Retail",
+        "url": "http://www.circlek.com/"
+    },
+    {
+        "linkedin_id": "2723431",
+        "name": "Accenture Espa\u00f1a",
+        "industry": "Business Consulting and Services",
+        "url": "https://accntu.re/44zBTwU"
+    },
+    {
+        "linkedin_id": "68877",
+        "name": "International Institute for Strategic Studies",
+        "industry": "Think Tanks",
+        "url": "http://www.iiss.org/"
+    },
+    {
+        "linkedin_id": "10580",
+        "name": "BRP",
+        "industry": "Manufacturing",
+        "url": "http://www.brp.com"
+    },
+    {
+        "linkedin_id": "10310718",
+        "name": "Accenture Southeast Asia",
+        "industry": "Business Consulting and Services",
+        "url": "https://www.accenture.com/"
+    },
+    {
+        "linkedin_id": "157320",
+        "name": "Future Electronics",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "https://www.FutureElectronics.com"
+    },
+    {
+        "linkedin_id": "800375",
+        "name": "PeopleCert",
+        "industry": "Education Administration Programs",
+        "url": "https://www.peoplecert.org/"
+    },
+    {
+        "linkedin_id": "793838",
+        "name": "Carson Dellosa Education",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.carsondellosa.com"
+    },
+    {
+        "linkedin_id": "30662",
+        "name": "Xlibris",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.xlibris.com/"
+    },
+    {
+        "linkedin_id": "1378034",
+        "name": "Worten Portugal",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "https://careers.worten.pt/pt/"
+    },
+    {
+        "linkedin_id": "3681711",
+        "name": "Accenture Nordics",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.accenture.com"
+    },
+    {
+        "linkedin_id": "166109",
+        "name": "SSAB",
+        "industry": "Primary Metal Manufacturing",
+        "url": "http://www.ssab.com"
+    },
+    {
+        "linkedin_id": "6980",
+        "name": "Simmons & Simmons",
+        "industry": "Law Practice",
+        "url": "http://www.simmons-simmons.com"
+    },
+    {
+        "linkedin_id": "5126793",
+        "name": "MHI Vestas Offshore Wind",
+        "industry": "Renewable Energy Semiconductor Manufacturing",
+        "url": "http://www.vestas.com"
+    },
+    {
+        "linkedin_id": "18267870",
+        "name": "Accenture Middle East",
+        "industry": "Business Consulting and Services",
+        "url": "http://www.accenture.com/ae-en"
+    },
+    {
+        "linkedin_id": "9224433",
+        "name": "Rosewood Abu Dhabi",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/abu-dhabi"
+    },
+    {
+        "linkedin_id": "41965",
+        "name": "BloodHorse",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.bloodhorse.com/"
+    },
+    {
+        "linkedin_id": "35835",
+        "name": "Concrete Solutions",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/br-pt"
+    },
+    {
+        "linkedin_id": "33208749",
+        "name": "HT Digital Streams",
+        "industry": "Online Audio and Video Media",
+        "url": "https://www.htmedia.in/career"
+    },
+    {
+        "linkedin_id": "3738",
+        "name": "Union Carbide",
+        "industry": "Chemical Manufacturing",
+        "url": "http://www.dow.com"
+    },
+    {
+        "linkedin_id": "15429",
+        "name": "Stockland",
+        "industry": "Real Estate",
+        "url": "https://www.stockland.com.au"
+    },
+    {
+        "linkedin_id": "8168",
+        "name": "WHSmith",
+        "industry": "Retail",
+        "url": "http://www.whsmithcareers.co.uk"
+    },
+    {
+        "linkedin_id": "10336242",
+        "name": "Accenture Colombia",
+        "industry": "Business Consulting and Services",
+        "url": "https://www.accenture.com/co-es"
+    },
+    {
+        "linkedin_id": "15154437",
+        "name": "Accenture Poland",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/pl-pl/"
+    },
+    {
+        "linkedin_id": "1291512",
+        "name": "MARIONNAUD",
+        "industry": "Retail",
+        "url": "http://www.marionnaud.com/"
+    },
+    {
+        "linkedin_id": "33313011",
+        "name": "CIPD Qualifications",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk"
+    },
+    {
+        "linkedin_id": "54621",
+        "name": "celio",
+        "industry": "Retail",
+        "url": "http://www.celio.com"
+    },
+    {
+        "linkedin_id": "1546275",
+        "name": "Amway India Enterprises Private Limited",
+        "industry": "Manufacturing",
+        "url": "http://www.amway.in/store"
+    },
+    {
+        "linkedin_id": "2028788",
+        "name": "Best Buy Canada",
+        "industry": "Retail",
+        "url": "http://www.bestbuy.ca/careers"
+    },
+    {
+        "linkedin_id": "14617",
+        "name": "Widex",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.widex.com"
+    },
+    {
+        "linkedin_id": "32754",
+        "name": "Petit Bateau",
+        "industry": "Textile Manufacturing",
+        "url": "http://www.petit-bateau.com"
+    },
+    {
+        "linkedin_id": "8278",
+        "name": "Scottish Enterprise",
+        "industry": "Government Relations Services",
+        "url": "https://www.scottish-enterprise.com"
+    },
+    {
+        "linkedin_id": "31501",
+        "name": "Transport en Logistiek Nederland",
+        "industry": "Transportation, Logistics, Supply Chain and Storage",
+        "url": "http://www.tln.nl"
+    },
+    {
+        "linkedin_id": "2677373",
+        "name": "Accenture the Netherlands",
+        "industry": "Business Consulting and Services",
+        "url": "https://www.accenture.com/nl-en"
+    },
+    {
+        "linkedin_id": "475547",
+        "name": "Komatsu Australia",
+        "industry": "Machinery Manufacturing",
+        "url": "http://www.komatsu.com.au"
+    },
+    {
+        "linkedin_id": "25353",
+        "name": "ANSYS Apache",
+        "industry": "Semiconductor Manufacturing",
+        "url": "http://ansys.com/Products/Simulation+Technology/Electronics/Integrated+Circuits"
+    },
+    {
+        "linkedin_id": "277249",
+        "name": "Dexus",
+        "industry": "Financial Services",
+        "url": "http://www.dexus.com"
+    },
+    {
+        "linkedin_id": "3730195",
+        "name": "Volvo Group Peru",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.volvogroup.pe/"
+    },
+    {
+        "linkedin_id": "655280",
+        "name": "Royal Agrifirm Group",
+        "industry": "Farming",
+        "url": "https://www.agrifirm.com"
+    },
+    {
+        "linkedin_id": "11745",
+        "name": "Cegos France",
+        "industry": "Professional Training and Coaching",
+        "url": "http://www.cegos.fr"
+    },
+    {
+        "linkedin_id": "165954",
+        "name": "SickKids Foundation",
+        "industry": "Fundraising",
+        "url": "http://www.sickkidsfoundation.com"
+    },
+    {
+        "linkedin_id": "1591550",
+        "name": "Swatch Ltd.",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "http://www.swatch.com"
+    },
+    {
+        "linkedin_id": "116639",
+        "name": "Fronius International",
+        "industry": "Electrical Equipment Manufacturing",
+        "url": "http://www.fronius.com"
+    },
+    {
+        "linkedin_id": "2049319",
+        "name": "National Motor Freight Traffic Association, Inc.",
+        "industry": "Truck Transportation",
+        "url": "http://www.nmfta.org"
+    },
+    {
+        "linkedin_id": "3020",
+        "name": "Staples Canada",
+        "industry": "Retail",
+        "url": "http://www.staples.ca"
+    },
+    {
+        "linkedin_id": "1066906",
+        "name": "Accenture Romania",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/ro-en/careers"
+    },
+    {
+        "linkedin_id": "21489",
+        "name": "French Connection",
+        "industry": "Retail",
+        "url": "http://www.frenchconnection.com"
+    },
+    {
+        "linkedin_id": "92265",
+        "name": "KLEPIERRE",
+        "industry": "Leasing Non-residential Real Estate",
+        "url": "http://www.klepierre.com"
+    },
+    {
+        "linkedin_id": "112926",
+        "name": "Crest Nicholson plc",
+        "industry": "Construction",
+        "url": "http://www.crestnicholson.com"
+    },
+    {
+        "linkedin_id": "130903",
+        "name": "Plaisio - \u03a0\u03bb\u03b1\u03af\u03c3\u03b9\u03bf",
+        "industry": "Retail",
+        "url": "https://www.instagram.com/plaisiopeople/?hl=en"
+    },
+    {
+        "linkedin_id": "18726",
+        "name": "The Conservative Party",
+        "industry": "Political Organizations",
+        "url": "http://www.conservatives.com"
+    },
+    {
+        "linkedin_id": "17968600",
+        "name": "Accenture in South Africa",
+        "industry": "Business Consulting and Services",
+        "url": "https://www.accenture.com/za-en"
+    },
+    {
+        "linkedin_id": "9378720",
+        "name": "H\u00f4tel de Crillon, A Rosewood Hotel",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/hotel-de-crillon"
+    },
+    {
+        "linkedin_id": "10338149",
+        "name": "Accenture Chile",
+        "industry": "Business Consulting and Services",
+        "url": "http://www.accenture.com/cl-es"
+    },
+    {
+        "linkedin_id": "362756",
+        "name": "La Lorraine Bakery Group NV",
+        "industry": "Food and Beverage Manufacturing",
+        "url": "http://www.llbg.com"
+    },
+    {
+        "linkedin_id": "10797612",
+        "name": "Accenture Greece",
+        "industry": "Information Technology & Services",
+        "url": "https://www.accenture.com/gr-en/about/company/greece"
+    },
+    {
+        "linkedin_id": "73672",
+        "name": "Camaieu",
+        "industry": "Retail",
+        "url": "http://www.camaieu.fr"
+    },
+    {
+        "linkedin_id": "242203",
+        "name": "PeproTech",
+        "industry": "Biotechnology Research",
+        "url": "http://www.peprotech.com/"
+    },
+    {
+        "linkedin_id": "44806",
+        "name": "Microgaming",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.microgaming.co.uk/"
+    },
+    {
+        "linkedin_id": "399338",
+        "name": "England & Wales Cricket Board (ECB)",
+        "industry": "Spectator Sports",
+        "url": "http://www.ecb.co.uk"
+    },
+    {
+        "linkedin_id": "58345",
+        "name": "CNED",
+        "industry": "E-Learning Providers",
+        "url": "http://cned.fr"
+    },
+    {
+        "linkedin_id": "18479369",
+        "name": "Findus Italia (Nomad Foods)",
+        "industry": "Food and Beverage Manufacturing",
+        "url": "http://www.findus.it"
+    },
+    {
+        "linkedin_id": "3579132",
+        "name": "Corning Incorporated (Asia Region)",
+        "industry": "Glass, Ceramics and Concrete Manufacturing",
+        "url": "http://www.corning.com"
+    },
+    {
+        "linkedin_id": "66768725",
+        "name": "Public Group",
+        "industry": "Retail",
+        "url": "https://www.public.gr"
+    },
+	
+    {
+        "linkedin_id": "7213644",
+        "name": "Faber-Castell Group",
+        "industry": "Consumer Goods",
+        "url": "https://www.faber-castell.com"
+    },
+    {
+        "linkedin_id": "1896986",
+        "name": "FLANNELS",
+        "industry": "Retail",
+        "url": "https://bit.ly/31vDy95"
+    },
+    {
+        "linkedin_id": "18714642",
+        "name": "Polaris Government & Defense",
+        "industry": "Defense and Space Manufacturing",
+        "url": "http://Polaris.com/gov"
+    },
+    {
+        "linkedin_id": "2228839",
+        "name": "The Wyanoke Group",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.wyanokegroup.com/"
+    },
+    {
+        "linkedin_id": "27974",
+        "name": "SIVA",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://siva.pt/"
+    },
+    {
+        "linkedin_id": "106497",
+        "name": "Sergio Rossi",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.sergiorossi.com"
+    },
+    {
+        "linkedin_id": "117912",
+        "name": "JULES",
+        "industry": "Retail",
+        "url": "https://www.jules.com/fr/index"
+    },
+    {
+        "linkedin_id": "21532",
+        "name": "Transition Networks Now Lantronix",
+        "industry": "Telecommunications",
+        "url": "https://www.lantronix.com/"
+    },
+    {
+        "linkedin_id": "3863979",
+        "name": "Accenture Belgium",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/be-en"
+    },
+    {
+        "linkedin_id": "27231684",
+        "name": "Accenture Hungary",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/hu-en/about/company/hungary"
+    },
+    {
+        "linkedin_id": "19806",
+        "name": "Ansys Safety and Security",
+        "industry": "Software Development",
+        "url": "https://www.ansys.com/products/safety-analysis"
+    },
+    {
+        "linkedin_id": "110785",
+        "name": "Aigle",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.aigle.com"
+    },
+    {
+        "linkedin_id": "47236",
+        "name": "Majestic Wine",
+        "industry": "Beverage Manufacturing",
+        "url": "http://www.majestic.co.uk"
+    },
+    {
+        "linkedin_id": "34224851",
+        "name": "Ingka Centres",
+        "industry": "Leasing Non-residential Real Estate",
+        "url": "https://www.ingkacentres.com/"
+    },
+    {
+        "linkedin_id": "18669104",
+        "name": "Karndean Designflooring USA",
+        "industry": "Building Materials",
+        "url": "http://www.karndean.com"
+    },
+    {
+        "linkedin_id": "10106105",
+        "name": "Alnatura",
+        "industry": "Retail",
+        "url": "https://www.alnatura.de/de-de"
+    },
+    {
+        "linkedin_id": "16206833",
+        "name": "UD Trucks",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.udtrucks.com/"
+    },
+    {
+        "linkedin_id": "5025435",
+        "name": "Foot Locker EMEA",
+        "industry": "Retail",
+        "url": "https://careers.footlocker.com/"
+    },
+    {
+        "linkedin_id": "5183400",
+        "name": "Schmitz Cargobull AG",
+        "industry": "Transportation/Trucking/Railroad",
+        "url": "http://www.cargobull.com"
+    },
+    {
+        "linkedin_id": "18144942",
+        "name": "Accenture Japan",
+        "industry": "Business Consulting and Services",
+        "url": "https://www.accenture.com/jp-ja/Careers"
+    },
+    {
+        "linkedin_id": "2100003",
+        "name": "European Society of Human Reproduction and Embryology (ESHRE)",
+        "industry": "Hospitals and Health Care",
+        "url": "http://www.eshre.eu"
+    },
+    {
+        "linkedin_id": "7101",
+        "name": "Tivoli",
+        "industry": "Travel Arrangements",
+        "url": "http://www.tivoli.dk"
+    },
+    {
+        "linkedin_id": "34876",
+        "name": "Independent Electricity System Operator (IESO)",
+        "industry": "Utilities",
+        "url": "http://www.ieso.ca"
+    },
+    {
+        "linkedin_id": "10215784",
+        "name": "Jean Coutu",
+        "industry": "Retail",
+        "url": "http://www.jeancoutu.com"
+    },
+    {
+        "linkedin_id": "3490541",
+        "name": "Nutrilite",
+        "industry": "Food and Beverage Services"
+    },
+    {
+        "linkedin_id": "6222",
+        "name": "GameStop Canada",
+        "industry": "Retail",
+        "url": "http://www.gamestop.ca"
+    },
+    {
+        "linkedin_id": "13327140",
+        "name": "Rosewood S\u00e3o Paulo",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/sao-paulo"
+    },
+    {
+        "linkedin_id": "18165",
+        "name": "RNIB",
+        "industry": "Non-profit Organizations",
+        "url": "http://www.rnib.org.uk/"
+    },
+    {
+        "linkedin_id": "18732",
+        "name": "London Drugs",
+        "industry": "Retail",
+        "url": "http://londondrugs.com"
+    },
+    {
+        "linkedin_id": "1833523",
+        "name": "ERES - Groupe Chanel",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.eresparis.com"
+    },
+    {
+        "linkedin_id": "37087",
+        "name": "Bolia.com",
+        "industry": "Retail Furniture and Home Furnishings",
+        "url": "http://www.bolia.com"
+    },
+    {
+        "linkedin_id": "9254476",
+        "name": "Rosewood Mayakoba",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/es/mayakoba-riviera-maya"
+    },
+    {
+        "linkedin_id": "68014214",
+        "name": "Rosewood Doha",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/doha"
+    },
+    {
+        "linkedin_id": "79747655",
+        "name": "Accenture Baltics",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com"
+    },
+    {
+        "linkedin_id": "3234818",
+        "name": "Rosewood London",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/london"
+    },
+    {
+        "linkedin_id": "93391",
+        "name": "Officer S/A",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.officer.com.br"
+    },
+    {
+        "linkedin_id": "22341",
+        "name": "RACQ",
+        "industry": "Financial Services",
+        "url": "http://www.racq.com.au/"
+    },
+    {
+        "linkedin_id": "14205",
+        "name": "European Southern Observatory",
+        "industry": "Research Services",
+        "url": "http://www.eso.org/"
+    },
+    {
+        "linkedin_id": "627101",
+        "name": "Dornbracht",
+        "industry": "Manufacturing",
+        "url": "http://www.dornbracht.com"
+    },
+    {
+        "linkedin_id": "6012",
+        "name": "Bilka, Salling Group",
+        "industry": "Retail Groceries",
+        "url": "http://www.bilka.dk"
+    },
+    {
+        "linkedin_id": "12232",
+        "name": "Apoteket AB",
+        "industry": "Pharmaceutical Manufacturing"
+    },
+    {
+        "linkedin_id": "16187214",
+        "name": "Rosewood Hong Kong",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/hong-kong"
+    },
+    {
+        "linkedin_id": "69061076",
+        "name": "AngloGold Ashanti Ghana",
+        "industry": "Mining",
+        "url": "https://www.anglogoldashanti.com/continental-africa/"
+    },
+    {
+        "linkedin_id": "19056167",
+        "name": "AngloGold Ashanti Australia",
+        "industry": "Mining",
+        "url": "http://www.anglogoldashanti.com/australasia/"
+    },
+    {
+        "linkedin_id": "97722",
+        "name": "ANZIIF",
+        "industry": "Insurance",
+        "url": "http://anziif.com"
+    },
+    {
+        "linkedin_id": "2266410",
+        "name": "DFE Pharma",
+        "industry": "Pharmaceutical Manufacturing",
+        "url": "http://www.dfepharma.com"
+    },
+    {
+        "linkedin_id": "10075",
+        "name": "DLG Group",
+        "industry": "Farming",
+        "url": "http://www.dlg.dk"
+    },
+    {
+        "linkedin_id": "25441",
+        "name": "Staffordshire County Council",
+        "industry": "Government Administration",
+        "url": "http://www.staffordshire.gov.uk"
+    },
+    {
+        "linkedin_id": "71543002",
+        "name": "KFC South Africa",
+        "industry": "Food and Beverage Services",
+        "url": "http://www.kfc.co.za"
+    },
+    {
+        "linkedin_id": "1272675",
+        "name": "Fred Meyer Jewelers",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "http://www.fredmeyerjewelers.com"
+    },
+    {
+        "linkedin_id": "39414",
+        "name": "Noerr",
+        "industry": "Law Practice",
+        "url": "https://www.noerr.com"
+    },
+    {
+        "linkedin_id": "164640",
+        "name": "Kromann Reumert",
+        "industry": "Law Practice",
+        "url": "https://www.kromannreumert.com"
+    },
+    {
+        "linkedin_id": "16186936",
+        "name": "VEGA Level and Pressure",
+        "industry": "Industrial Automation",
+        "url": "https://www.vega.com/"
+    },
+    {
+        "linkedin_id": "5053842",
+        "name": "Worten Espa\u00f1a",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "http://www.worten.es"
+    },
+    {
+        "linkedin_id": "93619",
+        "name": "FirstPort (UK)",
+        "industry": "Facilities Services",
+        "url": "http://www.firstport.co.uk"
+    },
+    {
+        "linkedin_id": "17870",
+        "name": "Antec, Inc",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "http://www.antec.com"
+    },
+    {
+        "linkedin_id": "2482739",
+        "name": "Dlubal Software",
+        "industry": "Software Development",
+        "url": "https://www.dlubal.com"
+    },
+    {
+        "linkedin_id": "11215107",
+        "name": "Lincoln Electric EMEA",
+        "industry": "Machinery Manufacturing",
+        "url": "https://www.lincolnelectric.com/en-GB/"
+    },
+    {
+        "linkedin_id": "14580",
+        "name": "Georg Jensen",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "https://www.georgjensen.com"
+    },
+    {
+        "linkedin_id": "330780",
+        "name": "Struers - your metallographic specialist",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "https://www.struers.com"
+    },
+    {
+        "linkedin_id": "1290522",
+        "name": "Bolton Medical",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.boltonmedical.com"
+    },
+    {
+        "linkedin_id": "52449",
+        "name": "Moneycorp",
+        "industry": "Financial Services",
+        "url": "https://m.moneycorp.com/lnk"
+    },
+    {
+        "linkedin_id": "5279736",
+        "name": "Henry Schein Canada",
+        "industry": "Medical Device",
+        "url": "http://www.henryschein.ca"
+    },
+    {
+        "linkedin_id": "589306",
+        "name": "British Marine",
+        "industry": "Maritime Transportation",
+        "url": "http://www.britishmarine.co.uk"
+    },
+    {
+        "linkedin_id": "83459",
+        "name": "NHS Confederation",
+        "industry": "Hospitals and Health Care",
+        "url": "http://www.nhsconfed.org"
+    },
+    {
+        "linkedin_id": "14519",
+        "name": "Gyldendal",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.gyldendal.dk"
+    },
+    {
+        "linkedin_id": "33292456",
+        "name": "Volvo Group M\u00e9xico",
+        "industry": "Automotive",
+        "url": "https://www.volvogroup.mx/es-mx/home.html"
+    },
+    {
+        "linkedin_id": "10258779",
+        "name": "Vonovia",
+        "industry": "Real Estate",
+        "url": "https://www.vonovia.de/de-de/datenschutz-social-media/linkedin"
+    },
+    {
+        "linkedin_id": "90242",
+        "name": "Elliott Wave International",
+        "industry": "Financial Services",
+        "url": "http://www.elliottwave.com"
+    },
+    {
+        "linkedin_id": "8242",
+        "name": "Politiken",
+        "industry": "Newspaper Publishing",
+        "url": "http://www.politiken.dk"
+    },
+    {
+        "linkedin_id": "6143203",
+        "name": "Festool",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "http://www.festool.com"
+    },
+    {
+        "linkedin_id": "602465",
+        "name": "Dobbies Garden Centres",
+        "industry": "Retail",
+        "url": "http://www.dobbies.com"
+    },
+    {
+        "linkedin_id": "166964",
+        "name": "Wonderful Copenhagen",
+        "industry": "Leisure, Travel & Tourism",
+        "url": "http://www.visitcopenhagen.dk/da/kobenhavn/wonderful-copenhagen"
+    },
+    {
+        "linkedin_id": "6045112",
+        "name": "The Hongkong and Shanghai Hotels, Limited",
+        "industry": "Hospitality",
+        "url": "http://hshgroup.com/careers"
+    },
+    {
+        "linkedin_id": "1301670",
+        "name": "GGz Breburg",
+        "industry": "Mental Health Care",
+        "url": "http://www.ggzbreburg.nl"
+    },
+    {
+        "linkedin_id": "18212",
+        "name": "nTelos Wireless",
+        "industry": "Telecommunications",
+        "url": "http://www.ntelos.com"
+    },
+    {
+        "linkedin_id": "7577091",
+        "name": "Perth Airport",
+        "industry": "Aviation and Aerospace Component Manufacturing",
+        "url": "http://www.perthairport.com.au"
+    },
+    {
+        "linkedin_id": "3660798",
+        "name": "Walmart eCommerce Mexico (Walmart.com.mx)",
+        "industry": "Retail",
+        "url": "http://www.walmart.com.mx"
+    },
+    {
+        "linkedin_id": "819482",
+        "name": "Public Cyprus",
+        "industry": "Retail",
+        "url": "https://www.public.cy/"
+    },
+    {
+        "linkedin_id": "947316",
+        "name": "VisitDenmark",
+        "industry": "Leisure, Travel & Tourism",
+        "url": "https://www.visitdenmark.dk/corporate"
+    },
+    {
+        "linkedin_id": "79940",
+        "name": "BWT France",
+        "industry": "Mechanical Or Industrial Engineering",
+        "url": "http://www.bwt.com/fr"
+    },
+    {
+        "linkedin_id": "5854755",
+        "name": "Cannondale Europe",
+        "industry": "Sporting Goods Manufacturing",
+        "url": "https://www.cannondale.com/en-eu"
+    },
+    {
+        "linkedin_id": "80432817",
+        "name": "Volvo Energy",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.volvogroup.com/en/"
+    },
+    {
+        "linkedin_id": "35564",
+        "name": "City of Wolverhampton Council",
+        "industry": "Government Administration",
+        "url": "http://www.wolverhampton.gov.uk"
+    },
+    {
+        "linkedin_id": "9328397",
+        "name": "Accenture Israel",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.accenture.com/il-en/Pages/index.aspx"
+    },
+    {
+        "linkedin_id": "1158917",
+        "name": "HD Hyundai Construction Equipment Europe",
+        "industry": "Machinery Manufacturing",
+        "url": "https://www.hyundai-ce.eu"
+    },
+    {
+        "linkedin_id": "16412",
+        "name": "Horten Advokatpartnerselskab",
+        "industry": "Law Practice",
+        "url": "http://www.horten.dk"
+    },
+    {
+        "linkedin_id": "46420",
+        "name": "Danmarks Idr\u00e6tsforbund (DIF)",
+        "industry": "Spectator Sports",
+        "url": "http://www.dif.dk"
+    },
+    {
+        "linkedin_id": "277583",
+        "name": "Mountville Mills",
+        "industry": "Textile Manufacturing",
+        "url": "http://www.mountville.com"
+    },
+    {
+        "linkedin_id": "13661464",
+        "name": "Project Management Institute MENA",
+        "industry": "Non-profit Organization Management",
+        "url": "http://www.pmi.org"
+    },
+    {
+        "linkedin_id": "81242",
+        "name": "DM - fagforening",
+        "industry": "Professional Organizations",
+        "url": "http://www.dm.dk"
+    },
+    {
+        "linkedin_id": "613426",
+        "name": "Bossard Group",
+        "industry": "Wholesale",
+        "url": "http://www.bossard.com"
+    },
+    {
+        "linkedin_id": "104720",
+        "name": "Mackevision",
+        "industry": "Animation",
+        "url": "https://www.accenture.com/us-en/about/accenture-song-index"
+    },
+    {
+        "linkedin_id": "12584312",
+        "name": "Polaris Commercial",
+        "industry": "Machinery Manufacturing",
+        "url": "https://www.polaris.com/en-us/commercial/"
+    },
+    {
+        "linkedin_id": "30132",
+        "name": "Sanist\u00e5l A/S",
+        "industry": "Wholesale",
+        "url": "http://www.sanistaal.com"
+    },
+    {
+        "linkedin_id": "165663",
+        "name": "Ruukki",
+        "industry": "Construction",
+        "url": "http://www.ruukki.com"
+    },
+    {
+        "linkedin_id": "164548",
+        "name": "John Wieland Homes and Neighborhoods",
+        "industry": "Real Estate",
+        "url": "http://www.jwhomes.com"
+    },
+    {
+        "linkedin_id": "42159",
+        "name": "Det Konservative Folkeparti",
+        "industry": "Political Organizations"
+    },
+    {
+        "linkedin_id": "982050",
+        "name": "Rosewood Castiglion del Bosco",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/castiglion-del-bosco"
+    },
+    {
+        "linkedin_id": "36540",
+        "name": "OKQ8",
+        "industry": "Oil and Gas",
+        "url": "http://www.okq8.se"
+    },
+    {
+        "linkedin_id": "22451",
+        "name": "1508",
+        "industry": "Design Services",
+        "url": "http://www.1508.dk"
+    },
+    {
+        "linkedin_id": "2794",
+        "name": "APC-MGE: now the IT Business of Schneider-Electric",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.apc.com"
+    },
+    {
+        "linkedin_id": "143595",
+        "name": "Giti Tire",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.giti.com"
+    },
+    {
+        "linkedin_id": "24998467",
+        "name": "Placo Brasil",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.placo.com.br"
+    },
+    {
+        "linkedin_id": "904463",
+        "name": "RAA",
+        "industry": "Civic and Social Organizations",
+        "url": "http://www.raa.com.au"
+    },
+    {
+        "linkedin_id": "22341942",
+        "name": "Accenture Bulgaria",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/bg-en/"
+    },
+    {
+        "linkedin_id": "903290",
+        "name": "SPORT 2000 France",
+        "industry": "Sporting Goods Manufacturing",
+        "url": "https://www.sport2000.fr/"
+    },
+    {
+        "linkedin_id": "36163",
+        "name": "GO Transit",
+        "industry": "Truck Transportation",
+        "url": "http://www.gotransit.com"
+    },
+    {
+        "linkedin_id": "68522923",
+        "name": "Project Management Institute Latinoam\u00e9rica",
+        "industry": "Professional Training and Coaching",
+        "url": "https://www.pmi.org/america-latina"
+    },
+    {
+        "linkedin_id": "2400",
+        "name": "Ontario Power Authority",
+        "industry": "Utilities",
+        "url": "http://www.ieso.ca/"
+    },
+    {
+        "linkedin_id": "2539872",
+        "name": "TOAST",
+        "industry": "Retail",
+        "url": "http://toa.st"
+    },
+    {
+        "linkedin_id": "705153",
+        "name": "Karndean Designflooring",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.karndean.com"
+    },
+    {
+        "linkedin_id": "9258188",
+        "name": "Rosewood Jeddah",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/jeddah"
+    },
+    {
+        "linkedin_id": "13428288",
+        "name": "Rosewood Bangkok",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/bangkok"
+    },
+    {
+        "linkedin_id": "77176",
+        "name": "Royal Borough of Kingston upon Thames",
+        "industry": "Government Administration",
+        "url": "http://www.kingston.gov.uk"
+    },
+    {
+        "linkedin_id": "91969",
+        "name": "Leister",
+        "industry": "Machinery Manufacturing",
+        "url": "https://www.leister.com"
+    },
+    {
+        "linkedin_id": "499125",
+        "name": "European Cancer Organisation",
+        "industry": "Non-profit Organizations",
+        "url": "http://www.europeancancer.org"
+    },
+    {
+        "linkedin_id": "90399646",
+        "name": "Bainbridge Partners",
+        "industry": "Business Consulting and Services",
+        "url": "http://www.bainbridgeint.com/"
+    },
+    {
+        "linkedin_id": "41134",
+        "name": "Orbium | Part of Accenture Wealth Management",
+        "industry": "Business Consulting and Services",
+        "url": "https://www.accenture.com/us-en/services/capital-markets/wealth-management"
+    },
+    {
+        "linkedin_id": "971687",
+        "name": "Jaywing",
+        "industry": "Advertising Services",
+        "url": "http://jaywing.com"
+    },
+    {
+        "linkedin_id": "29216215",
+        "name": "Henry Schein Schmidt Espa\u00f1a",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.henryschein.es"
+    },
+    {
+        "linkedin_id": "18287759",
+        "name": "Birds Eye UK & IE",
+        "industry": "Food and Beverage Services",
+        "url": "http://www.birdseye.co.uk"
+    },
+    {
+        "linkedin_id": "71483",
+        "name": "Voyages Indigenous Tourism Australia",
+        "industry": "Hospitality",
+        "url": "https://www.voyages.com.au"
+    },
+    {
+        "linkedin_id": "115841",
+        "name": "GF Forsikring",
+        "industry": "Insurance",
+        "url": "https://www.gfforsikring.dk"
+    },
+    {
+        "linkedin_id": "37259726",
+        "name": "Moneycorp Americas",
+        "industry": "Financial Services",
+        "url": "https://www.moneycorp.com/en-us/"
+    },
+	{
+        "linkedin_id": "31317437",
+        "name": "DuPont\u2122 Tedlar\u00ae",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.tedlar.com"
+    },
+    {
+        "linkedin_id": "5390477",
+        "name": "Cirque du Soleil Events + Experiences",
+        "industry": "Entertainment Providers",
+        "url": "http://www.cirquedusoleil.com/events"
+    },
+    {
+        "linkedin_id": "29678",
+        "name": "Fakta",
+        "industry": "Retail Groceries"
+    },
+    {
+        "linkedin_id": "311161",
+        "name": "BIMA (British Interactive Media Association)",
+        "industry": "Technology, Information and Internet",
+        "url": "http://www.bima.co.uk"
+    },
+    {
+        "linkedin_id": "68735",
+        "name": "Ansys Materials",
+        "industry": "Software Development",
+        "url": "https://www.ansys.com/products/materials?utm_campaign=social-organic&utm_source=linkedin&utm_medium=materials&campaignid=7013g000000Y8uTAAS\u200b"
+    },
+    {
+        "linkedin_id": "34724",
+        "name": "Finanssektorens Uddannelsescenter",
+        "industry": "Education Management",
+        "url": "http://www.finansudd.dk"
+    },
+    {
+        "linkedin_id": "32282",
+        "name": "Br\u00f8drene Dahl",
+        "industry": "Wholesale Building Materials",
+        "url": "https://www.bd.dk"
+    },
+    {
+        "linkedin_id": "2831123",
+        "name": "VEGA Instruments SA",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "http://www.vega.com"
+    },
+    {
+        "linkedin_id": "1671248",
+        "name": "ANGLOGOLD ASHANTI - GEITA GOLD MINE",
+        "industry": "Mining",
+        "url": "http://www.AngloGoldAshanti.com"
+    },
+    {
+        "linkedin_id": "1703741",
+        "name": "Costa Cruise Lines North America",
+        "industry": "Travel Arrangements",
+        "url": "http://www.costacruise.com/B2C/USA/Default.htm"
+    },
+    {
+        "linkedin_id": "101386",
+        "name": "Dog",
+        "industry": "Advertising Services",
+        "url": "https://www.dogdigital.com/"
+    },
+    {
+        "linkedin_id": "329453",
+        "name": "Future Shop is now operated by Best Buy.",
+        "industry": "Retail",
+        "url": "http://www.bestbuy.ca/en-CA/home.aspx"
+    },
+    {
+        "linkedin_id": "679115",
+        "name": "Q8 Danmark A/S",
+        "industry": "Oil and Gas",
+        "url": "http://www.Q8.dk"
+    },
+    {
+        "linkedin_id": "13655414",
+        "name": "Rosewood Munich",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/munich"
+    },
+    {
+        "linkedin_id": "22032652",
+        "name": "UGITECH",
+        "industry": "Mining",
+        "url": "http://www.ugitech.com"
+    },
+    {
+        "linkedin_id": "207455",
+        "name": "WorldPoint",
+        "industry": "Hospitals and Health Care",
+        "url": "http://www.worldpoint.com"
+    },
+    {
+        "linkedin_id": "41311",
+        "name": "Terrence Higgins Trust",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.tht.org.uk"
+    },
+    {
+        "linkedin_id": "659476",
+        "name": "Bergans of Norway",
+        "industry": "Sporting Goods Manufacturing",
+        "url": "http://www.bergans.no"
+    },
+    {
+        "linkedin_id": "5217669",
+        "name": "VEGA Grieshaber KG",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "http://www.vega.com"
+    },
+    {
+        "linkedin_id": "45253",
+        "name": "Eika",
+        "industry": "Banking",
+        "url": "https://eika.no/"
+    },
+    {
+        "linkedin_id": "43215131",
+        "name": "Project Management Institute Asia Pacific",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.pmi.org/"
+    },
+    {
+        "linkedin_id": "15218644",
+        "name": "Sigma Group",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.sigma.se/"
+    },
+    {
+        "linkedin_id": "112770",
+        "name": "Rosewood Beijing",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com"
+    },
+    {
+        "linkedin_id": "457559",
+        "name": "Scandlines",
+        "industry": "Truck Transportation",
+        "url": "http://www.scandlines.com"
+    },
+    {
+        "linkedin_id": "36797",
+        "name": "Vitusapotek",
+        "industry": "Pharmaceutical Manufacturing",
+        "url": "http://www.vitusapotek.no"
+    },
+    {
+        "linkedin_id": "6041816",
+        "name": "Harrods Aviation Limited",
+        "industry": "Airlines and Aviation",
+        "url": "http://www.harrodsaviation.com"
+    },
+    {
+        "linkedin_id": "344747",
+        "name": "City of Olympia",
+        "industry": "Government Administration",
+        "url": "http://olympiawa.gov"
+    },
+    {
+        "linkedin_id": "799506",
+        "name": "Ryman",
+        "industry": "Retail",
+        "url": "https://www.ryman.co.uk/linkedin"
+    },
+    {
+        "linkedin_id": "1112010",
+        "name": "Rosewood Villa Magna",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/villa-magna"
+    },
+    {
+        "linkedin_id": "10561292",
+        "name": "Rosewood Phnom Penh",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/phnom-penh"
+    },
+    {
+        "linkedin_id": "726005",
+        "name": "Search Technologies",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.searchtechnologies.com"
+    },
+    {
+        "linkedin_id": "665662",
+        "name": "LTO Noord",
+        "industry": "Farming",
+        "url": "https://www.ltonoord.nl"
+    },
+    {
+        "linkedin_id": "2858781",
+        "name": "LKCA",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.lkca.nl"
+    },
+    {
+        "linkedin_id": "5222972",
+        "name": "Robinsons Brewery",
+        "industry": "Food & Beverages",
+        "url": "http://www.robinsonsbrewery.com"
+    },
+    {
+        "linkedin_id": "958073",
+        "name": "Toshiba Australia",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "http://www.toshiba-business.com.au"
+    },
+    {
+        "linkedin_id": "42470707",
+        "name": "AngloGold Ashanti Obuasi Mine",
+        "industry": "Mining",
+        "url": "https://www.anglogoldashanti.com/continental-africa/"
+    },
+    {
+        "linkedin_id": "640696",
+        "name": "PRESTO (Metrolinx)",
+        "industry": "Transportation/Trucking/Railroad",
+        "url": "http://www.prestocard.ca"
+    },
+    {
+        "linkedin_id": "875286",
+        "name": "Abacus Cooperativa",
+        "industry": "Retail",
+        "url": "https://abacus.coop"
+    },
+    {
+        "linkedin_id": "1453101",
+        "name": "The CIPD in Northern Ireland",
+        "industry": "Human Resources Services",
+        "url": "http://www.cipd.co.uk/learn/branches/northern-ireland"
+    },
+    {
+        "linkedin_id": "9218742",
+        "name": "Rosewood Mansion on Turtle Creek",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/mansion-on-turtle-creek-dallas"
+    },
+    {
+        "linkedin_id": "539667",
+        "name": "Byggmax AB",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.byggmax.com"
+    },
+    {
+        "linkedin_id": "1034870",
+        "name": "Thinkbox",
+        "industry": "Broadcast Media Production and Distribution",
+        "url": "http://www.thinkbox.tv"
+    },
+    {
+        "linkedin_id": "980160",
+        "name": "COURTS SINGAPORE",
+        "industry": "Retail",
+        "url": "http://www.courts.com.sg"
+    },
+    {
+        "linkedin_id": "18081662",
+        "name": "Kwikset",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.kwikset.com"
+    },
+    {
+        "linkedin_id": "69573",
+        "name": "MCM Electronics",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "http://www.mcmelectronics.com"
+    },
+    {
+        "linkedin_id": "2012322",
+        "name": "GGD Gelderland-Zuid",
+        "industry": "Hospitals and Health Care",
+        "url": "http://www.ggdgelderlandzuid.nl"
+    },
+    {
+        "linkedin_id": "20525351",
+        "name": "BSI Training Academy",
+        "industry": "Education Administration Programs",
+        "url": "https://www.bsigroup.com"
+    },
+    {
+        "linkedin_id": "10795",
+        "name": "Boston Acoustics",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "http://www.bostonacoustics.com"
+    },
+    {
+        "linkedin_id": "9222092",
+        "name": "Rosewood San Miguel de Allende",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/san-miguel-de-allende"
+    },
+    {
+        "linkedin_id": "10561288",
+        "name": "Rosewood Washington, D.C.",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/washington-dc"
+    },
+    {
+        "linkedin_id": "11719158",
+        "name": "LanguageCert (PeopleCert Qualifications Ltd)",
+        "industry": "Education Administration Programs",
+        "url": "http://www.languagecert.org/"
+    },
+    {
+        "linkedin_id": "23012",
+        "name": "Trivadis - Part of Accenture",
+        "industry": "IT Services and IT Consulting"
+    },
+    {
+        "linkedin_id": "782041",
+        "name": "LPS Bossard Pvt Ltd",
+        "industry": "Wholesale",
+        "url": "https://www.bossard.com/in-en/about-us/company/india/"
+    },
+    {
+        "linkedin_id": "3017238",
+        "name": "SAS Cargo Group",
+        "industry": "Airlines and Aviation",
+        "url": "http://www.sascargo.com"
+    },
+    {
+        "linkedin_id": "3518041",
+        "name": "Matterhorn Gotthard Bahn",
+        "industry": "Transportation, Logistics, Supply Chain and Storage",
+        "url": "http://www.matterhorngotthardbahn.ch"
+    },
+    {
+        "linkedin_id": "389632",
+        "name": "Change Lingerie",
+        "industry": "Retail",
+        "url": "https://www.change.com/"
+    },
+    {
+        "linkedin_id": "9447480",
+        "name": "Isover Brasil",
+        "industry": "Construction",
+        "url": "http://www.isover.com.br"
+    },
+    {
+        "linkedin_id": "73390",
+        "name": "Codehouse",
+        "industry": "Advertising Services",
+        "url": "http://www.codehousegroup.com"
+    },
+    {
+        "linkedin_id": "3882290",
+        "name": "Nybolig",
+        "industry": "Real Estate",
+        "url": "http://www.nybolig.dk"
+    },
+    {
+        "linkedin_id": "3319175",
+        "name": "Bihr",
+        "industry": "Wholesale",
+        "url": "http://www.mybihr.com"
+    },
+    {
+        "linkedin_id": "2138930",
+        "name": "The Nic. Christiansen Group",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.nc.dk"
+    },
+    {
+        "linkedin_id": "571132",
+        "name": "Servestsa",
+        "industry": "Outsourcing and Offshoring Consulting"
+    },
+    {
+        "linkedin_id": "258944",
+        "name": "PMI Karachi Pakistan Chapter",
+        "industry": "Non-profit Organization Management",
+        "url": "https://www.pmi.org/chapters/karachi"
+    },
+    {
+        "linkedin_id": "11306223",
+        "name": "CIM Magazine",
+        "industry": "Mining",
+        "url": "http://magazine.cim.org"
+    },
+    {
+        "linkedin_id": "144071",
+        "name": "Grays",
+        "industry": "Retail",
+        "url": "www.grays.com"
+    },
+    {
+        "linkedin_id": "1144135",
+        "name": "Zip Water UK",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "http://specify.zipwater.co.uk"
+    },
+    {
+        "linkedin_id": "276255",
+        "name": "PMI Northern Italy Chapter",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.pmi.org/chapters/northern-italy"
+    },
+    {
+        "linkedin_id": "796005",
+        "name": "Linet spol. s r.o.",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.linet.cz"
+    },
+    {
+        "linkedin_id": "2249597",
+        "name": "The City of Calgary Youth Employment Centre",
+        "industry": "Individual and Family Services",
+        "url": "http://www.youthemploymentcentre.ca"
+    },
+    {
+        "linkedin_id": "64727559",
+        "name": "Edgars",
+        "industry": "Retail",
+        "url": "http://www.edgars.co.za"
+    },
+    {
+        "linkedin_id": "377560",
+        "name": "Lee Valley Tools",
+        "industry": "Retail",
+        "url": "http://www.leevalley.com"
+    },
+    {
+        "linkedin_id": "11057532",
+        "name": "Simmons & Simmons France",
+        "industry": "Law Practice",
+        "url": "http://www.simmons-simmons.com/fr-FR/"
+    },
+    {
+        "linkedin_id": "18775659",
+        "name": "Accenture Czech Republic",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/cz-en"
+    },
+    {
+        "linkedin_id": "57225",
+        "name": "VicSuper",
+        "industry": "Financial Services",
+        "url": "http://www.vicsuper.com.au"
+    },
+    {
+        "linkedin_id": "5365253",
+        "name": "Nieuwe Oogst",
+        "industry": "Farming",
+        "url": "https://www.nieuweoogst.nl"
+    },
+    {
+        "linkedin_id": "150073",
+        "name": "Ume\u00e5 Energi AB",
+        "industry": "Government Administration",
+        "url": "http://www.umeaenergi.se"
+    },
+    {
+        "linkedin_id": "18667134",
+        "name": "Karndean Designflooring UK",
+        "industry": "Construction",
+        "url": "http://www.karndean.com"
+    },
+    {
+        "linkedin_id": "1154572",
+        "name": "Nova Scotia Liquor Corporation",
+        "industry": "Retail",
+        "url": "myNSLC.com"
+    },
+    {
+        "linkedin_id": "119412",
+        "name": "Paul Fredrick",
+        "industry": "Apparel & Fashion",
+        "url": "https://www.PaulFredrick.com"
+    },
+    {
+        "linkedin_id": "9181053",
+        "name": "ABN AMRO Commercial Finance",
+        "industry": "Financial Services",
+        "url": "http://www.abnamrocomfin.com"
+    },
+    {
+        "linkedin_id": "33507",
+        "name": "Tibnor",
+        "industry": "Wholesale Metals and Minerals",
+        "url": "http://www.tibnor.se"
+    },
+    {
+        "linkedin_id": "7791386",
+        "name": "KOOKAI FRANCE",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.kookai.fr"
+    },
+    {
+        "linkedin_id": "1562632",
+        "name": "Brice by Jules",
+        "industry": "Apparel & Fashion",
+        "url": "http://www.brice.fr"
+    },
+    {
+        "linkedin_id": "11466618",
+        "name": "Accenture Luxembourg",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.accenture.com/lu-en"
+    },
+    {
+        "linkedin_id": "30348",
+        "name": "IDEC USA",
+        "industry": "Industrial Automation",
+        "url": "https://us.idec.com"
+    },
+    {
+        "linkedin_id": "3695827",
+        "name": "UD Trucks MEENA",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.udtrucks.com/meena"
+    },
+    {
+        "linkedin_id": "10610356",
+        "name": "Media Markt Hellas",
+        "industry": "Retail",
+        "url": "http://www.public.gr"
+    },
+    {
+        "linkedin_id": "9340643",
+        "name": "AlphaTheta Music Americas, Inc.",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "http://pioneerdj.com/en-us"
+    },
+    {
+        "linkedin_id": "702593",
+        "name": "Scapino",
+        "industry": "Retail",
+        "url": "http://www.scapino.nl"
+    },
+    {
+        "linkedin_id": "68515438",
+        "name": "Project Management Institute Brasil",
+        "industry": "Professional Training and Coaching",
+        "url": "https://www.pmi.org/brasil"
+    },
+    {
+        "linkedin_id": "4863747",
+        "name": "RATIONALE",
+        "industry": "Personal Care Product Manufacturing",
+        "url": "https://www.rationale.com"
+    },
+    {
+        "linkedin_id": "35550315",
+        "name": "Simmons & Simmons Luxembourg LLP",
+        "industry": "Law Practice",
+        "url": "https://www.simmons-simmons.com/en/locations/luxembourg"
+    },
+    {
+        "linkedin_id": "736341",
+        "name": "Edinburgh Woollen Mill",
+        "industry": "Retail",
+        "url": "http://www.ewm.co.uk"
+    },
+    {
+        "linkedin_id": "62184",
+        "name": "Byggmakker",
+        "industry": "Retail",
+        "url": "https://www.byggmakker.no"
+    },
+    {
+        "linkedin_id": "2507113",
+        "name": "LINET Group SE",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.linetgroup.com"
+    },
+    {
+        "linkedin_id": "2995844",
+        "name": "European College of Neuropsychopharmacology (ECNP)",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.ecnp.eu"
+    },
+    {
+        "linkedin_id": "51146",
+        "name": "Banco Central de Venezuela",
+        "industry": "Banking"
+    },
+    {
+        "linkedin_id": "28996479",
+        "name": "VEGA Brasil",
+        "industry": "Automation Machinery Manufacturing"
+    },
+    {
+        "linkedin_id": "917717",
+        "name": "Hartmann",
+        "industry": "Manufacturing",
+        "url": "http://hartmann.com"
+    },
+    {
+        "linkedin_id": "334868",
+        "name": "Zip Water",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "http://www.zipwater.com"
+    },
+    {
+        "linkedin_id": "2964774",
+        "name": "Foodonclick.com",
+        "industry": "Technology, Information and Internet",
+        "url": "http://www.foodonclick.com"
+    },
+    {
+        "linkedin_id": "974088",
+        "name": "JP/Politikens Forlag",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.politikensforlag.dk"
+    },
+    {
+        "linkedin_id": "33400",
+        "name": "Yliopiston Apteekki",
+        "industry": "Pharmaceutical Manufacturing",
+        "url": "https://www.yliopistonapteekki.fi"
+    },
+    {
+        "linkedin_id": "1281946",
+        "name": "Go Ape",
+        "industry": "Recreational Facilities",
+        "url": "https://goape.co.uk"
+    },
+    {
+        "linkedin_id": "3251548",
+        "name": "Educatius Group",
+        "industry": "Education Management",
+        "url": "http://www.educatius.org/"
+    },
+    {
+        "linkedin_id": "121081",
+        "name": "Samsill Corporation",
+        "industry": "Manufacturing",
+        "url": "http://www.samsill.com"
+    },
+    {
+        "linkedin_id": "117498",
+        "name": "K-rauta AB",
+        "industry": "Retail",
+        "url": "https://www.k-rauta.se"
+    },
+    {
+        "linkedin_id": "101828",
+        "name": "Hidden Hearing",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.hiddenhearing.co.uk"
+    },
+    {
+        "linkedin_id": "56254",
+        "name": "Pressalit",
+        "industry": "Plastics Manufacturing",
+        "url": "http://www.pressalit.com"
+    },
+    {
+        "linkedin_id": "11845148",
+        "name": "Oxfam in Zimbabwe",
+        "industry": "Non-profit Organization Management",
+        "url": "http://www.oxfam.org.uk"
+    },
+    {
+        "linkedin_id": "10554881",
+        "name": "Rosewood Phuket",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/phuket"
+    },
+    {
+        "linkedin_id": "724748",
+        "name": "Aeres",
+        "industry": "Education",
+        "url": "http://www.aeres.nl"
+    },
+    {
+        "linkedin_id": "2927202",
+        "name": "Bayern AutoGroup A/S",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.bag.dk"
+    },
+    {
+        "linkedin_id": "712326",
+        "name": "Troldtekt A/S",
+        "industry": "Wholesale Building Materials"
+    },
+    {
+        "linkedin_id": "64414",
+        "name": "Marius Pedersen A/S",
+        "industry": "Environmental Services",
+        "url": "http://www.mariuspedersen.dk"
+    },
+    {
+        "linkedin_id": "65379238",
+        "name": "Portuguese Institute for Quality - IPQ",
+        "industry": "Government Administration",
+        "url": "http://www1.ipq.pt"
+    },
+    {
+        "linkedin_id": "1338741",
+        "name": "NYG\u00c5RD International",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://corporate.nygard.com"
+    },
+    {
+        "linkedin_id": "68188038",
+        "name": "Lincoln Electric Canada",
+        "industry": "Machinery Manufacturing",
+        "url": "https://www.lincolnelectric.com/en-ca/Pages/default.aspx"
+    },
+    {
+        "linkedin_id": "9218743",
+        "name": "Rosewood Hotel Georgia",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/HotelGeorgi"
+    },
+    {
+        "linkedin_id": "2160890",
+        "name": "BWT Pharma and Biotech Ib\u00e9rica",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.bwt.es"
+    },
+    {
+        "linkedin_id": "52507",
+        "name": "MECA",
+        "industry": "Vehicle Repair and Maintenance",
+        "url": "http://www.meca.se/"
+    },
+    {
+        "linkedin_id": "1276272",
+        "name": "Furuno USA, Inc.",
+        "industry": "Maritime Transportation",
+        "url": "http://www.FurunoUSA.com"
+    },
+    {
+        "linkedin_id": "13327904",
+        "name": "DuPont India",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "https://www.dupont.com/now.html"
+    },
+    {
+        "linkedin_id": "75748469",
+        "name": "Staples Portugal",
+        "industry": "Retail Office Equipment",
+        "url": "https://www.staples.pt/"
+    },
+    {
+        "linkedin_id": "10280886",
+        "name": "Gyldendal Uddannelse",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://gyldendal-uddannelse.dk/"
+    },
+    {
+        "linkedin_id": "11174008",
+        "name": "The CIPD in Scotland",
+        "industry": "Human Resources",
+        "url": "http://www.cipd.co.uk/scotland"
+    },
+    {
+        "linkedin_id": "1287367",
+        "name": "PetCareRx Inc",
+        "industry": "Retail",
+        "url": "https://www.petcarerx.com"
+    },
+    {
+        "linkedin_id": "2940731",
+        "name": "Switch",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.switchit.com"
+    },
+    {
+        "linkedin_id": "28963120",
+        "name": "Depict (Fashion Merchandising App)",
+        "industry": "Software Development",
+        "url": "http://depict.ai"
+    },
+    {
+        "linkedin_id": "365247",
+        "name": "AURA Energi",
+        "industry": "Renewable Energy Semiconductor Manufacturing",
+        "url": "https://www.aura.dk/"
+    },
+    {
+        "linkedin_id": "26281",
+        "name": "ClerksWell",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://clerkswell-7696941.hs-sites.com/webinar-enhance-digital-presence-with-multisites"
+    },
+    {
+        "linkedin_id": "89562806",
+        "name": "Green Line Calgary",
+        "industry": "Community Development and Urban Planning",
+        "url": "https://www.calgary.ca/greenline"
+    },
+    {
+        "linkedin_id": "9318481",
+        "name": "AlphaTheta EMEA Limited",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "http://www.pioneerdj.com"
+    },
+    {
+        "linkedin_id": "84060",
+        "name": "Pentik Oy",
+        "industry": "Design",
+        "url": "http://www.pentik.com"
+    },
+    {
+        "linkedin_id": "253726",
+        "name": "Casade",
+        "industry": "Real Estate",
+        "url": "http://www.casade.nl"
+    },
+    {
+        "linkedin_id": "36205",
+        "name": "Accenture Song BELUX",
+        "industry": "Advertising Services",
+        "url": "https://www.accenture.com/be-en"
+    },
+    {
+        "linkedin_id": "27097496",
+        "name": "VEGA T\u00fcrkiye",
+        "industry": "Industrial Automation",
+        "url": "https://www.vega.com/"
+    },
+    {
+        "linkedin_id": "11052461",
+        "name": "Henry Schein Krugg",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.henryschein.it"
+    },
+    {
+        "linkedin_id": "17947346",
+        "name": "VEGA Instrumentos, S.A. (Espa\u00f1a)",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "https://www.vega.com/"
+    },
+    {
+        "linkedin_id": "695605",
+        "name": "VEGA France",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "https://www.vega.com/fr-fr"
+    },
+    {
+        "linkedin_id": "9167343",
+        "name": "Dow Benelux",
+        "industry": "Chemical Manufacturing",
+        "url": "http://www.workingatdowbenelux.com"
+    },
+    {
+        "linkedin_id": "16257877",
+        "name": "Rosewood Baha Mar",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/baha-mar"
+    },
+    {
+        "linkedin_id": "49052",
+        "name": "IBB Consulting Group",
+        "industry": "Business Consulting and Services",
+        "url": "http://www.accenture.com/ibbconsultingacquisition"
+    },
+    {
+        "linkedin_id": "91143227",
+        "name": "CCL Shipjobs",
+        "industry": "Travel Arrangements",
+        "url": "https://shipjobs.carnival.com"
+    },
+    {
+        "linkedin_id": "734893",
+        "name": "Australian National Maritime Museum",
+        "industry": "Museums, Historical Sites, and Zoos",
+        "url": "http://sea.museum/"
+    },
+    {
+        "linkedin_id": "10452",
+        "name": "Vocollect",
+        "industry": "Warehousing",
+        "url": "http://www.honeywellaidc.com"
+    },
+    {
+        "linkedin_id": "35675086",
+        "name": "JPG",
+        "industry": "Retail Office Equipment",
+        "url": "https://www.jpg.fr/"
+    },
+    {
+        "linkedin_id": "2841750",
+        "name": "Mac's Convenience Stores Inc.",
+        "industry": "Retail",
+        "url": "http://www.macs.ca/"
+    },
+    {
+        "linkedin_id": "8853932",
+        "name": "Rosewood Le Guanahani St Barth",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/le-guanahani"
+    },
+    {
+        "linkedin_id": "3849604",
+        "name": "Notcutts Ltd.",
+        "industry": "Retail",
+        "url": "http://www.notcutts.co.uk"
+    },
+    {
+        "linkedin_id": "40915495",
+        "name": "VEGA Instruments, Canada Ltd.",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "https://www.vega.com/"
+    },
+    {
+        "linkedin_id": "33212702",
+        "name": "Almacenes La 14",
+        "industry": "Retail Groceries",
+        "url": "http://www.la14.com"
+    },
+    {
+        "linkedin_id": "6159335",
+        "name": "Desaru Coast Malaysia",
+        "industry": "Travel Arrangements",
+        "url": "https://desarucoast.com/"
+    },
+    {
+        "linkedin_id": "42730497",
+        "name": "HT Smartcast",
+        "industry": "Media Production",
+        "url": "https://events.htmedia.in/podmasters"
+    },
+    {
+        "linkedin_id": "20292128",
+        "name": "Lincoln Electric T\u00fcrkiye",
+        "industry": "Machinery Manufacturing"
+    },
+    {
+        "linkedin_id": "683256",
+        "name": "WCD",
+        "industry": "Printing Services",
+        "url": "http://www.wcdconnect.com"
+    },
+    {
+        "linkedin_id": "8317744",
+        "name": "Yamaha Motor Australia Pty Ltd",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.yamaha-motor.com.au"
+    },
+    {
+        "linkedin_id": "741336",
+        "name": "MINISTERIO DE HACIENDA",
+        "industry": "Government Administration",
+        "url": "http://www.hacienda.go.cr"
+    },
+    {
+        "linkedin_id": "963456",
+        "name": "EXAIR",
+        "industry": "Industrial Automation",
+        "url": "http://www.exair.com"
+    },
+    {
+        "linkedin_id": "648791",
+        "name": "Epiphany Search",
+        "industry": "Advertising Services",
+        "url": "https://www.jaywing.com/"
+    },
+    {
+        "linkedin_id": "47765",
+        "name": "Stratiteq",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.stratiteq.com"
+    },
+    {
+        "linkedin_id": "993669",
+        "name": "SOLETRADER",
+        "industry": "Retail",
+        "url": "http://www.soletrader.co.uk"
+    },
+    {
+        "linkedin_id": "9460031",
+        "name": "VisitDenmark Business Events",
+        "industry": "Advertising Services",
+        "url": "https://www.visitdenmark.com/business-events"
+    },
+    {
+        "linkedin_id": "91375",
+        "name": "BWT Denmark",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.bwt.dk"
+    },
+    {
+        "linkedin_id": "95695169",
+        "name": "UD Trucks India",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.udtrucks.com/"
+    },
+    {
+        "linkedin_id": "17946975",
+        "name": "VEGA Italia",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "https://www.vega.com/"
+    },
+    {
+        "linkedin_id": "13324799",
+        "name": "Rosewood Vienna",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/vienna"
+    },
+    {
+        "linkedin_id": "13061047",
+        "name": "Hyundai Material Handling Europe",
+        "industry": "Machinery Manufacturing",
+        "url": "https://www.hyundai-mh.eu/"
+    },
+    {
+        "linkedin_id": "24677785",
+        "name": "CAMAIEU ITALIA",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.camaieu.it"
+    },
+    {
+        "linkedin_id": "267165",
+        "name": "BetterInvesting",
+        "industry": "Financial Services",
+        "url": "http://www.betterinvesting.org"
+    },
+    {
+        "linkedin_id": "1019071",
+        "name": "Glaspoort",
+        "industry": "Telecommunications",
+        "url": "http://www.glaspoort.nl"
+    },
+    {
+        "linkedin_id": "69123060",
+        "name": "Rosewood Amsterdam",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/amsterdam"
+    },
+    {
+        "linkedin_id": "2343623",
+        "name": "Motorama Group",
+        "industry": "Retail Motor Vehicles",
+        "url": "http://www.motorama.com.au"
+    },
+    {
+        "linkedin_id": "11822444",
+        "name": "Danske Landskabsarkitekter",
+        "industry": "Architecture and Planning",
+        "url": "http://www.landskabsarkitekter.dk/"
+    },
+    {
+        "linkedin_id": "18915871",
+        "name": "iglo Deutschland",
+        "industry": "Manufacturing",
+        "url": "https://www.iglo.de"
+    },
+    {
+        "linkedin_id": "36009",
+        "name": "EXHAUSTO A/S",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.exhausto.dk"
+    },
+    {
+        "linkedin_id": "714412",
+        "name": "Jones Bootmaker",
+        "industry": "Retail",
+        "url": "http://www.jonesbootmaker.com"
+    },
+    {
+        "linkedin_id": "27012383",
+        "name": "My Business",
+        "industry": "Retail",
+        "url": "http://www.amway.com/Shop/Product/Category.aspx/eye-lip-care?pwsid=sitajayanty"
+    },
+    {
+        "linkedin_id": "648637",
+        "name": "Aeres VMBO en Aeres MBO",
+        "industry": "Education",
+        "url": "http://www.aeres.nl"
+    },
+    {
+        "linkedin_id": "3953780",
+        "name": "DHC USA Incorporated",
+        "industry": "Cosmetics",
+        "url": "http://www.dhccare.com"
+    },
+    {
+        "linkedin_id": "654584",
+        "name": "Buck & Hickman",
+        "industry": "Mechanical Or Industrial Engineering",
+        "url": "http://www.buckandhickman.com"
+    },
+    {
+        "linkedin_id": "499455",
+        "name": "wissner-bosserhoff GmbH",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.wi-bo.de"
+    },
+    {
+        "linkedin_id": "25055948",
+        "name": "International Code Council Credentialing",
+        "industry": "Information Technology & Services",
+        "url": "https://www.iccsafe.org/education-certification/certifications-and-testing/certification-overview/"
+    },
+    {
+        "linkedin_id": "1203340",
+        "name": "Waoo",
+        "industry": "Telecommunications",
+        "url": "http://www.waoo.dk"
+    },
+    {
+        "linkedin_id": "18391875",
+        "name": "Norsk St\u00e5l AS",
+        "industry": "Wholesale Metals and Minerals",
+        "url": "http://www.norskstaal.no/"
+    },
+    {
+        "linkedin_id": "13979899",
+        "name": "Bossard Schweiz",
+        "industry": "Wholesale",
+        "url": "https://www.bossard.com/de/company/schweiz"
+    },
+    {
+        "linkedin_id": "2319505",
+        "name": "Bossard - Deutschland",
+        "industry": "Wholesale",
+        "url": "https://www.bossard.com/de-de/ueber-uns/company/deutschland/"
+    },
+    {
+        "linkedin_id": "626314",
+        "name": "DOM Sicherheitstechnik GmbH & Co. KG",
+        "industry": "Security Systems Services",
+        "url": "http://www.dom-security.com"
+    },
+    {
+        "linkedin_id": "6229932",
+        "name": "Proshop a/s",
+        "industry": "Computer Hardware",
+        "url": "https://www.proshop.dk"
+    },
+    {
+        "linkedin_id": "1007188",
+        "name": "Henry Schein France",
+        "industry": "Retail",
+        "url": "http://www.henryschein.fr"
+    },
+    {
+        "linkedin_id": "962430",
+        "name": "Go Ape USA",
+        "industry": "Recreational Facilities",
+        "url": "https://goape.com/"
+    },
+    {
+        "linkedin_id": "4627760",
+        "name": "Slumberger Lumber",
+        "industry": "Construction",
+        "url": "http://www.slumbergerlumber.doitbest.com/home.aspx"
+    },
+    {
+        "linkedin_id": "10435192",
+        "name": "Coala Life",
+        "industry": "Medical Device",
+        "url": "http://www.coalalife.com"
+    },
+    {
+        "linkedin_id": "2703392",
+        "name": "BWT DACH",
+        "industry": "Consumer Goods",
+        "url": "https://www.bwt.com"
+    },
+    {
+        "linkedin_id": "93067",
+        "name": "Trollbeads A/S",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "http://www.trollbeads.com"
+    },
+    {
+        "linkedin_id": "291564",
+        "name": "CAT Telecom Public Company Limited",
+        "industry": "Telecommunications",
+        "url": "http://www.cattelecom.com"
+    },
+    {
+        "linkedin_id": "76227652",
+        "name": "Kona Village, A Rosewood Resort",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/kona-village"
+    },
+    {
+        "linkedin_id": "11956257",
+        "name": "You Must Create",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.youmustcreate.com"
+    },
+    {
+        "linkedin_id": "5302062",
+        "name": "Sports Direct Fitness",
+        "industry": "Wellness and Fitness Services",
+        "url": "http://www.sportsdirectfitness.com/"
+    },
+    {
+        "linkedin_id": "3825477",
+        "name": "Bossard Asia",
+        "industry": "Wholesale",
+        "url": "http://www.bossard.com/"
+    },
+    {
+        "linkedin_id": "586471",
+        "name": "PMI Lebanon Chapter",
+        "industry": "Non-profit Organizations",
+        "url": "http://www.pmilebanonchapter.org/"
+    },
+    {
+        "linkedin_id": "65499369",
+        "name": "La Lorraine Bakery Group (LLBG) UK&I",
+        "industry": "Food and Beverage Services",
+        "url": "https://www.llbg.com/en-en"
+    },
+    {
+        "linkedin_id": "10897",
+        "name": "The Structure Group",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.accenture.com"
+    },
+    {
+        "linkedin_id": "14073642",
+        "name": "WorldPoint Latinoam\u00e9rica",
+        "industry": "Wellness and Fitness Services",
+        "url": "https://worldpoint.com/"
+    },
+    {
+        "linkedin_id": "87872",
+        "name": "Axygen",
+        "industry": "Biotechnology",
+        "url": "http://www.corning.com"
+    },
+    {
+        "linkedin_id": "18478630",
+        "name": "Rosewood Guangzhou",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/guangzhou"
+    },
+    {
+        "linkedin_id": "35621707",
+        "name": "Zip Water North America",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "http://na.zipwater.com/"
+    },
+    {
+        "linkedin_id": "67286093",
+        "name": "UD Astra Motor Indonesia",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.udtrucks.com/indonesia"
+    },
+    {
+        "linkedin_id": "50689",
+        "name": "Trafford Publishing",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.trafford.com"
+    },
+    {
+        "linkedin_id": "74699002",
+        "name": "La Lorraine Bakery Middle East DMCC",
+        "industry": "Food and Beverage Services",
+        "url": "https://www.llbg.com/en-en/about-us/who-we-are"
+    },
+    {
+        "linkedin_id": "1081763",
+        "name": "Costa Cruceros",
+        "industry": "Travel Arrangements",
+        "url": "http://www.costacruceros.com"
+    },
+    {
+        "linkedin_id": "7805090",
+        "name": "UD Trucks Australia",
+        "industry": "Truck Transportation",
+        "url": "http://www.udtrucks.com/en-au/home"
+    },
+    {
+        "linkedin_id": "5014549",
+        "name": "Eika Forsikring",
+        "industry": "Insurance",
+        "url": "https://www.eikaforsikring.no"
+    },
+    {
+        "linkedin_id": "18747835",
+        "name": "HEMA",
+        "industry": "Retail",
+        "url": "http://www.hema.com"
+    },
+    {
+        "linkedin_id": "849232",
+        "name": "CEDARLANE",
+        "industry": "Biotechnology Research",
+        "url": "http://www.cedarlanelabs.com"
+    },
+    {
+        "linkedin_id": "9781514",
+        "name": "Loake Shoemakers",
+        "industry": "Retail",
+        "url": "www.loake.com"
+    },
+    {
+        "linkedin_id": "3313114",
+        "name": "ScotGrad",
+        "industry": "Government Administration",
+        "url": "http://www.ScotGrad.co.uk"
+    },
+    {
+        "linkedin_id": "10002432",
+        "name": "Tuhu.cn",
+        "industry": "Automotive",
+        "url": "http://www.tuhu.cn"
+    },
+    {
+        "linkedin_id": "80956385",
+        "name": "SuperBrugsen",
+        "industry": "Retail",
+        "url": "https://superbrugsen.coop.dk/"
+    },
+    {
+        "linkedin_id": "10697528",
+        "name": "IDEC Corporation - Global Headquarters",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing"
+    },
+    {
+        "linkedin_id": "16166544",
+        "name": "VEGA Measurement M\u00e9xico",
+        "industry": "Industrial Automation",
+        "url": "http://www.vega.com"
+    },
+    {
+        "linkedin_id": "33190268",
+        "name": "Interstate Batteries - All Battery Center",
+        "industry": "Retail",
+        "url": "https://www.interstatebatteries.com/all-battery-centers"
+    },
+    {
+        "linkedin_id": "1314551",
+        "name": "Republic (Retail) Ltd",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.republic.co.uk"
+    },
+    {
+        "linkedin_id": "136074",
+        "name": "Estate M\u00e6glerne",
+        "industry": "Real Estate",
+        "url": "http://www.estate.dk"
+    },
+    {
+        "linkedin_id": "11495171",
+        "name": "Iglo Nederland (Nomad Foods)",
+        "industry": "Food and Beverage Services",
+        "url": "https://www.iglo.nl/"
+    },
+    {
+        "linkedin_id": "6530193",
+        "name": "Rosewood Little Dix Bay",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/littledixbay"
+    },
+    {
+        "linkedin_id": "1261264",
+        "name": "Geeksquad",
+        "industry": "Information Technology & Services",
+        "url": "http://www.geeksquad.ca"
+    },
+    {
+        "linkedin_id": "18404683",
+        "name": "Visma DataL\u00f8n",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.dataloen.dk"
+    },
+    {
+        "linkedin_id": "24817",
+        "name": "Thule",
+        "industry": "Manufacturing",
+        "url": "http://www.thule.com"
+    },
+    {
+        "linkedin_id": "126987",
+        "name": "Usbl",
+        "industry": "Real Estate",
+        "url": "https://www.usbl.no"
+    },
+    {
+        "linkedin_id": "4351606",
+        "name": "Metro Pcs Authorized Dealer",
+        "industry": "Telecommunications",
+        "url": "https://www.metropcs.com"
+    },
+    {
+        "linkedin_id": "38136514",
+        "name": "Bygghemma",
+        "industry": "Retail",
+        "url": "http://www.bygghemma.se"
+    },
+    {
+        "linkedin_id": "3798601",
+        "name": "CC's Coffee House",
+        "industry": "Food and Beverage Services",
+        "url": "https://www.ccscoffee.com/"
+    },
+    {
+        "linkedin_id": "10860212",
+        "name": "Southern Phone",
+        "industry": "Telecommunications",
+        "url": "http://www.southernphone.com.au"
+    },
+    {
+        "linkedin_id": "10225695",
+        "name": "Hearing First",
+        "industry": "E-Learning Providers",
+        "url": "http://hearingfirst.org"
+    },
+    {
+        "linkedin_id": "5069838",
+        "name": "Construction Scotland",
+        "industry": "Construction",
+        "url": "http://www.scottish-enterprise.com/microsites/construction-scotland"
+    },
+    {
+        "linkedin_id": "54615",
+        "name": "Country Home Products",
+        "industry": "Manufacturing",
+        "url": "https://www.drpower.com/careers"
+    },
+    {
+        "linkedin_id": "91587360",
+        "name": "Simmons & Simmons Spain",
+        "industry": "Law Practice",
+        "url": "https://simmons-simmons.com/"
+    },
+    {
+        "linkedin_id": "16215661",
+        "name": "iShop Mixup",
+        "industry": "Wholesale",
+        "url": "http://www.mixup.com.mx/Mixup/Home.aspx"
+    },
+    {
+        "linkedin_id": "102341",
+        "name": "Hatch Goba (Pty) Ltd",
+        "industry": "Civil Engineering",
+        "url": "http://www.hatch.com"
+    },
+    {
+        "linkedin_id": "91735944",
+        "name": "Healio | Ocular Surgery News",
+        "industry": "Newspaper Publishing",
+        "url": "https://www.healio.com/news/ophthalmology"
+    },
+    {
+        "linkedin_id": "73265178",
+        "name": "La Lorraine Bakery Group Turkiye, Caucasus and Central Asia",
+        "industry": "Food and Beverage Manufacturing",
+        "url": "https://www.llbg.com/tr-tr"
+    },
+    {
+        "linkedin_id": "40809",
+        "name": "JJB Sports",
+        "industry": "Retail",
+        "url": "http://www.jjbsports.com"
+    },
+    {
+        "linkedin_id": "9421384",
+        "name": "ECS ELITEGROUP (Taiwan)",
+        "industry": "Computer Hardware Manufacturing",
+        "url": "http://www.ecs.com.tw"
+    },
+    {
+        "linkedin_id": "28156877",
+        "name": "BWT Italia",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "https://www.bwt.com/it-it/"
+    },
+    {
+        "linkedin_id": "19832101",
+        "name": "BOOKER RETAIL PARTNERS (GB) LIMITED",
+        "industry": "Wholesale",
+        "url": "https://www.booker.co.uk/"
+    },
+    {
+        "linkedin_id": "10699940",
+        "name": "O Botic\u00e1rio - Grupo Ervas Finas",
+        "industry": "Cosmetics",
+        "url": "http://www.boticario.com.br/"
+    },
+    {
+        "linkedin_id": "9499724",
+        "name": "Manfield schoenen",
+        "industry": "Retail",
+        "url": "https://www.manfield.com"
+    },
+    {
+        "linkedin_id": "40036",
+        "name": "Aktiv Eiendomsmegling",
+        "industry": "Real Estate",
+        "url": "http://www.aktiv.no"
+    },
+    {
+        "linkedin_id": "11131768",
+        "name": "DOM Metalux",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.dom-security.com"
+    },
+    {
+        "linkedin_id": "2600591",
+        "name": "EmpireCovers",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.empirecovers.com"
+    },
+    {
+        "linkedin_id": "11736245",
+        "name": "Irritrol Irrigation",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "https://www.irritrol.com/"
+    },
+    {
+        "linkedin_id": "129440",
+        "name": "Rose Hills Company",
+        "industry": "Individual and Family Services",
+        "url": "http://www.rosehills.com"
+    },
+    {
+        "linkedin_id": "10263436",
+        "name": "Cruise Baltic",
+        "industry": "Travel Arrangements",
+        "url": "http://www.cruisebaltic.com"
+    },
+    {
+        "linkedin_id": "419688",
+        "name": "Canada's Olympic Broadcast Media Consortium",
+        "industry": "Broadcast Media Production and Distribution",
+        "url": "http://www.CTVOlympics.ca"
+    },
+    {
+        "linkedin_id": "1588867",
+        "name": "E&T Plastics",
+        "industry": "Plastics Manufacturing",
+        "url": "http://www.e-tplastics.com"
+    },
+    {
+        "linkedin_id": "919717",
+        "name": "Rosewood Bermuda",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodtuckerspoint.com"
+    },
+    {
+        "linkedin_id": "39645",
+        "name": "R\u00e5det for Sikker Trafik",
+        "industry": "Public Relations and Communications Services",
+        "url": "http://www.sikkertrafik.dk"
+    },
+    {
+        "linkedin_id": "140835",
+        "name": "Closed",
+        "industry": "Retail",
+        "url": "http://www.closed.co.uk"
+    },
+    {
+        "linkedin_id": "18669556",
+        "name": "Karndean Designflooring AU NZ",
+        "industry": "Building Materials",
+        "url": "http://www.karndean.com"
+    },
+    {
+        "linkedin_id": "1225149",
+        "name": "Costa Crociere",
+        "industry": "Travel Arrangements",
+        "url": "http://www.costacruceros.es"
+    },
+    {
+        "linkedin_id": "5196705",
+        "name": "Henry Schein Dental Nederland",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.henryschein.nl"
+    },
+    {
+        "linkedin_id": "34610318",
+        "name": "Iglo Belgium (Nomad Foods)",
+        "industry": "Food and Beverage Services",
+        "url": "https://www.iglo.be/"
+    },
+    {
+        "linkedin_id": "2073186",
+        "name": "Spidell Tax Education",
+        "industry": "Accounting",
+        "url": "http://www.caltax.com"
+    },
+    {
+        "linkedin_id": "35711764",
+        "name": "Faber-Castell Argentina",
+        "industry": "Writing and Editing",
+        "url": "http://www.faber-castell.com.ar"
+    },
+    {
+        "linkedin_id": "1565831",
+        "name": "Oase Outdoors",
+        "industry": "Sporting Goods Manufacturing",
+        "url": "http://www.oase-outdoors.com"
+    },
+    {
+        "linkedin_id": "3699",
+        "name": "Rohm and Haas Electronic Materials",
+        "industry": "Semiconductor Manufacturing",
+        "url": "http://www.rohmhaas.com"
+    },
+    {
+        "linkedin_id": "10085885",
+        "name": "NutriControl B.V. | Analytical solutions",
+        "industry": "Research Services",
+        "url": "http://www.nutricontrol.nl/"
+    },
+    {
+        "linkedin_id": "52313",
+        "name": "Serit AS",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://serit.no/"
+    },
+    {
+        "linkedin_id": "18474519",
+        "name": "Baldwin Hardware",
+        "industry": "Construction Hardware Manufacturing",
+        "url": "https://www.baldwinhardware.com/"
+    },
+    {
+        "linkedin_id": "66243838",
+        "name": "BWT water+more International - Professional Solutions",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "https://www.bwt-wam.com/en/Pages/default.aspx"
+    },
+    {
+        "linkedin_id": "66184399",
+        "name": "Fenex, freight forwarding and logistics",
+        "industry": "Transportation, Logistics, Supply Chain and Storage",
+        "url": "https://www.fenex.nl/"
+    },
+    {
+        "linkedin_id": "582663",
+        "name": "Verlag Herder GmbH",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.herder.de"
+    },
+    {
+        "linkedin_id": "379328",
+        "name": "Alpha Solutions",
+        "industry": "Information Technology & Services",
+        "url": "http://www.alpha-solutions.com"
+    },
+    {
+        "linkedin_id": "108550",
+        "name": "Trodat",
+        "industry": "Manufacturing",
+        "url": "http://www.trodat.net"
+    },
+    {
+        "linkedin_id": "82655163",
+        "name": "PMI Zambia Chapter",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.pmi.org/chapters/zambia"
+    },
+    {
+        "linkedin_id": "35712607",
+        "name": "DOW QUIMICA ARGENTINA S.A.",
+        "industry": "Oil and Gas",
+        "url": "https://ar.dow.com/es-ar"
+    },
+    {
+        "linkedin_id": "3792123",
+        "name": "RICE by RICE",
+        "industry": "Design Services",
+        "url": "http://www.ricebyrice.com"
+    },
+    {
+        "linkedin_id": "1144145",
+        "name": "BWT UK Limited.",
+        "industry": "Executive Offices",
+        "url": "https://www.bwt-uk.co.uk"
+    },
+    {
+        "linkedin_id": "76959701",
+        "name": "Project Management Institute - Mozambique Chapter",
+        "industry": "Professional Training and Coaching",
+        "url": "https://www.pmi.org/chapters/mozambique#"
+    },
+    {
+        "linkedin_id": "64708",
+        "name": "Plannja",
+        "industry": "Building Materials",
+        "url": "http://www.plannja.se"
+    },
+    {
+        "linkedin_id": "10951537",
+        "name": "DOM SECURITY",
+        "industry": "Wholesale Building Materials",
+        "url": "https://www.dom-security.com"
+    },
+    {
+        "linkedin_id": "2188730",
+        "name": "Trollbeads United States, Inc.",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "http://www.trollbeads.com"
+    },
+    {
+        "linkedin_id": "243012",
+        "name": "Beekwilder | Makes businesses extraordinary",
+        "industry": "Advertising Services",
+        "url": "http://www.beekwilder.com"
+    },
+    {
+        "linkedin_id": "51766921",
+        "name": "Rohm-Wako Electronics (M) Sdn Bhd",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "http://www.rohmhaas.com"
+    },
+    {
+        "linkedin_id": "10561297",
+        "name": "Rosewood Sanya",
+        "industry": "Hospitality",
+        "url": "http://www.rosewoodhotels.com/en/sanya"
+    },
+    {
+        "linkedin_id": "91323208",
+        "name": "Rosewood Schloss Fuschl",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/schloss-fuschl-salzburg"
+    },
+    {
+        "linkedin_id": "1952311",
+        "name": "HeadBrands",
+        "industry": "Personal Care Product Manufacturing",
+        "url": "http://www.headbrands.com"
+    },
+    {
+        "linkedin_id": "9308670",
+        "name": "FOF",
+        "industry": "Education Administration Programs",
+        "url": "http://www.fof.dk"
+    },
+    {
+        "linkedin_id": "89854",
+        "name": "Espion - A BSI Professional Services Company",
+        "industry": "Computer and Network Security",
+        "url": "https://www.bsigroup.com/en-IE/our-services/Cybersecurity-Information-Resilience/"
+    },
+    {
+        "linkedin_id": "19967",
+        "name": "FDB",
+        "industry": "Retail",
+        "url": "http://www.fdb.dk"
+    },
+    {
+        "linkedin_id": "10534694",
+        "name": "EDOX SAS",
+        "industry": "Wholesale",
+        "url": "http://www.edox.com"
+    },
+    {
+        "linkedin_id": "69759291",
+        "name": "TV Masters from Thinkbox",
+        "industry": "E-Learning Providers",
+        "url": "https://tvmasters.thinkbox.tv/"
+    },
+    {
+        "linkedin_id": "88186",
+        "name": "CDC Point spa",
+        "industry": "Wholesale",
+        "url": "http://www.cdcpoint.it"
+    },
+    {
+        "linkedin_id": "460670",
+        "name": "Hyundai Danmark",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.hyundai.dk"
+    },
+    {
+        "linkedin_id": "11381186",
+        "name": "CruiseCopenhagen",
+        "industry": "Travel Arrangements",
+        "url": "http://www.cruisecopenhagen.com"
+    },
+    {
+        "linkedin_id": "15262596",
+        "name": "Triple-S Salud",
+        "industry": "Insurance",
+        "url": "http://www.ssspr.com"
+    },
+    {
+        "linkedin_id": "35674058",
+        "name": "Bossard France",
+        "industry": "Wholesale",
+        "url": "https://www.bossard.com/fr/company/france/"
+    },
+    {
+        "linkedin_id": "74495324",
+        "name": "Project Management Institute Germany",
+        "industry": "Education Management",
+        "url": "https://www.pmi.org"
+    },
+    {
+        "linkedin_id": "1542622",
+        "name": "Chandler",
+        "industry": "Wholesale",
+        "url": "http://www.chandlersales.com"
+    },
+    {
+        "linkedin_id": "86769664",
+        "name": "Hard Rock Global Sales",
+        "industry": "Hospitality",
+        "url": "http://www.hardrock.com"
+    },
+    {
+        "linkedin_id": "80426509",
+        "name": "Brugsen",
+        "industry": "Retail",
+        "url": "https://brugsen.coop.dk/"
+    },
+    {
+        "linkedin_id": "2575216",
+        "name": "DIF & Team Danmark Kommerciel",
+        "industry": "Advertising Services"
+    },
+    {
+        "linkedin_id": "1639054",
+        "name": "Cash Generator Limited",
+        "industry": "Retail",
+        "url": "http://www.cashgenerator.co.uk"
+    },
+    {
+        "linkedin_id": "1369841",
+        "name": "VEGA NL",
+        "industry": "Measuring and Control Instrument Manufacturing"
+    },
+    {
+        "linkedin_id": "83144415",
+        "name": "BWT Group",
+        "industry": "Food and Beverage Services",
+        "url": "https://bwt.com"
+    },
+    {
+        "linkedin_id": "28865620",
+        "name": "Cool Beans",
+        "industry": "Food & Beverages",
+        "url": "https://republic.com/eatcoolbeans"
+    },
+    {
+        "linkedin_id": "13623",
+        "name": "RIS",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.trafford.com/4dcgi/view-item?item=5975"
+    },
+    {
+        "linkedin_id": "2101023",
+        "name": "BWT water+more Nederland",
+        "industry": "Food and Beverage Services",
+        "url": "http://www.bwt-wam.com"
+    },
+    {
+        "linkedin_id": "5291276",
+        "name": "Fnac Belgium",
+        "industry": "Retail",
+        "url": "https://www.fnac.be"
+    },
+    {
+        "linkedin_id": "28995632",
+        "name": "Bossard Spain",
+        "industry": "Transportation, Logistics, Supply Chain and Storage",
+        "url": "https://www.bossard.com/es/"
+    },
+    {
+        "linkedin_id": "11214639",
+        "name": "Linet wissner-bosserhoff France",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "https://www.linet.fr/fr-LN/"
+    },
+    {
+        "linkedin_id": "3796943",
+        "name": "Hard Rock Cafe Asuncion",
+        "industry": "Food and Beverage Services",
+        "url": "http://www.hardrock.com/cafes/asuncion/"
+    },
+    {
+        "linkedin_id": "10104870",
+        "name": "PMI Cap\u00edtulo Nicaragua",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.pmi.org/"
+    },
+    {
+        "linkedin_id": "15142832",
+        "name": "Kronaby",
+        "industry": "Consumer Goods",
+        "url": "http://www.kronaby.com"
+    },
+    {
+        "linkedin_id": "1825613",
+        "name": "BWT Belgium NV SA",
+        "industry": "Industrial Machinery Manufacturing"
+    },
+    {
+        "linkedin_id": "29016774",
+        "name": "BWT Schweiz",
+        "industry": "Industrial Machinery Manufacturing"
+    },
+    {
+        "linkedin_id": "28980268",
+        "name": "DuPont ArmorWall Fire-Rated Structural Insulated Sheathing",
+        "industry": "Building Materials",
+        "url": "http://www.armorwall.dupont.com"
+    },
+    {
+        "linkedin_id": "1828798",
+        "name": "Bossard Nederland BV",
+        "industry": "Wholesale",
+        "url": "https://nederland.bossard.com"
+    },
+    {
+        "linkedin_id": "6740311",
+        "name": "Saskatchewan Liquor and Gaming Authority",
+        "industry": "Government Administration",
+        "url": "http://www.slga.com"
+    },
+    {
+        "linkedin_id": "28156116",
+        "name": "The Irish Cultural Centre",
+        "industry": "Non-profit Organizations",
+        "url": "http://Irishculture.org"
+    },
+    {
+        "linkedin_id": "1962748",
+        "name": "Boligbyggelaget TOBB",
+        "industry": "Real Estate",
+        "url": "http://tobb.no"
+    },
+    {
+        "linkedin_id": "8864389",
+        "name": "BWT Wassertechnik GmbH",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.bwt.de"
+    },
+    {
+        "linkedin_id": "27166987",
+        "name": "Discapnet. Portal de las personas con discapacidad de Fundaci\u00f3n ONCE",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.discapnet.es"
+    },
+    {
+        "linkedin_id": "1125398",
+        "name": "Terminalen A/S",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.terminalen.dk"
+    },
+	{
+        "linkedin_id": "5366490",
+        "name": "DOM UK",
+        "industry": "Security and Investigations",
+        "url": "https://www.dom-security.com/uk/en"
+    },
+    {
+        "linkedin_id": "1901675",
+        "name": "Tanners Wines Ltd",
+        "industry": "Food and Beverage Retail",
+        "url": "http://www.tanners-wines.co.uk"
+    },
+    {
+        "linkedin_id": "19046675",
+        "name": "WhichCar",
+        "industry": "Internet Publishing",
+        "url": "https://www.whichcar.com.au/"
+    },
+    {
+        "linkedin_id": "3844789",
+        "name": "VEKS",
+        "industry": "Utilities",
+        "url": "https://www.veks.dk"
+    },
+    {
+        "linkedin_id": "69196713",
+        "name": "K-Rauta",
+        "industry": "Retail",
+        "url": "https://www.k-rauta.fi/"
+    },
+    {
+        "linkedin_id": "13223243",
+        "name": "Rialto Melbourne",
+        "industry": "Leasing Non-residential Real Estate",
+        "url": "https://www.dexus.com/leasing/office/rialto-towers"
+    },
+    {
+        "linkedin_id": "24766235",
+        "name": "Faber-Castell Italia",
+        "industry": "Manufacturing",
+        "url": "http://www.faber-castell.it"
+    },
+    {
+        "linkedin_id": "98907982",
+        "name": "DM Kultur og Medier",
+        "industry": "Professional Organizations"
+    },
+    {
+        "linkedin_id": "2834584",
+        "name": "Menage Confort SA",
+        "industry": "Furniture",
+        "url": "https://menage-confort.com/?utm_source=SocialMedia&utm_medium=Linkedin&utm_campaign=Bio&utm_term=&utm_content=VisitaWeb"
+    },
+    {
+        "linkedin_id": "11287829",
+        "name": "DOM Nederland",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "http://www.dom-security.com/nl/nl"
+    },
+    {
+        "linkedin_id": "111993",
+        "name": "Anti Doping Danmark",
+        "industry": "Spectator Sports",
+        "url": "http://www.antidoping.dk"
+    },
+    {
+        "linkedin_id": "86846991",
+        "name": "Corning LifeScience",
+        "industry": "Biotechnology Research",
+        "url": "https://www.corning.com/in/en/products/life-sciences.html"
+    },
+    {
+        "linkedin_id": "70117401",
+        "name": "Fl\u00fcgger Danmark",
+        "industry": "Chemical Manufacturing",
+        "url": "https://www.flugger.dk/"
+    },
+    {
+        "linkedin_id": "12537647",
+        "name": "Akademie Faber-Castell",
+        "industry": "Higher Education",
+        "url": "https://www.akademie-faber-castell.de/"
+    },
+    {
+        "linkedin_id": "27443013",
+        "name": "VEGA India Level and Pressure Measurement Pvt. Ltd.",
+        "industry": "Machinery Manufacturing",
+        "url": "http://www.vega.com"
+    },
+    {
+        "linkedin_id": "83153957",
+        "name": "Simmons & Simmons Netherlands",
+        "industry": "Law Practice",
+        "url": "https://www.simmons-simmons.com/"
+    },
+    {
+        "linkedin_id": "1301642",
+        "name": "Iberocruceros",
+        "industry": "Travel Arrangements",
+        "url": "http://www.iberocruceros.es"
+    },
+    {
+        "linkedin_id": "6454092",
+        "name": "ESP Properties",
+        "industry": "Advertising Services",
+        "url": "http://www.sponsorship.com"
+    },
+    {
+        "linkedin_id": "33409087",
+        "name": "\u30a2\u30af\u30bb\u30f3\u30c1\u30e5\u30a2\u682a\u5f0f\u4f1a\u793e",
+        "industry": "",
+        "url": "http://www.accenture.com"
+    },
+    {
+        "linkedin_id": "4530083",
+        "name": "UD Trucks North America",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.udtrucks.com/en-us/home"
+    },
+    {
+        "linkedin_id": "2274638",
+        "name": "Edstr\u00f6ms Maskin & Verktyg AB",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.edstroms.com"
+    },
+    {
+        "linkedin_id": "67535716",
+        "name": "PMI-PMP",
+        "industry": "Professional Training and Coaching",
+        "url": "https://www.pmi.org/"
+    },
+    {
+        "linkedin_id": "11191395",
+        "name": "Office Depot Sweden",
+        "industry": "Retail Office Equipment",
+        "url": "http://www.officedepot.se"
+    },
+    {
+        "linkedin_id": "72290915",
+        "name": "The Chancery Rosewood",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/grosvenor-square"
+    },
+    {
+        "linkedin_id": "10796583",
+        "name": "Camaieu China",
+        "industry": "Textile Manufacturing",
+        "url": "http://www.camaieu.com/"
+    },
+    {
+        "linkedin_id": "1815517",
+        "name": "Route One",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.routeone.co.uk"
+    },
+    {
+        "linkedin_id": "2497403",
+        "name": "Ignite Inc Powered by Stream Energy",
+        "industry": "Oil and Gas",
+        "url": "http://www.igniteinc.com"
+    },
+    {
+        "linkedin_id": "3343653",
+        "name": "Antoniano di Bologna",
+        "industry": "Religious Institutions",
+        "url": "http://www.antoniano.it"
+    },
+    {
+        "linkedin_id": "36075",
+        "name": "Hinttech Staffing",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.hinttech.com"
+    },
+    {
+        "linkedin_id": "28645342",
+        "name": "HEMA BELUX",
+        "industry": "Retail",
+        "url": "http://www.hema.be"
+    },
+    {
+        "linkedin_id": "35489110",
+        "name": "ALFA Nicaragua",
+        "industry": "Telecommunications",
+        "url": "http://www.alfa.com.ni"
+    },
+    {
+        "linkedin_id": "7982030",
+        "name": "Memory Express Computers",
+        "industry": "Retail",
+        "url": "http://www.memoryexpress.com"
+    },
+    {
+        "linkedin_id": "446466",
+        "name": "BuyMyTronics.com",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "http://www.BuyMyTronics.com"
+    },
+    {
+        "linkedin_id": "18840498",
+        "name": "Karndean Designflooring Canada",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.karndean.com"
+    },
+    {
+        "linkedin_id": "78394868",
+        "name": "Coop Ejendomme",
+        "industry": "Commercial Real Estate",
+        "url": "https://info.coop.dk/kontakt/ejendomme-kontakt/"
+    },
+    {
+        "linkedin_id": "5252173",
+        "name": "Cleveland Clinic Wellness",
+        "industry": "Wellness and Fitness Services",
+        "url": "http://www.clevelandclinicwellness.com/"
+    },
+    {
+        "linkedin_id": "3555622",
+        "name": "Alpha Solutions USA",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.alpha-solutions.com"
+    },
+    {
+        "linkedin_id": "12499835",
+        "name": "IDEC EMEA",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "https://eu.idec.com/"
+    },
+    {
+        "linkedin_id": "30657692",
+        "name": "ICC Digital Codes",
+        "industry": "Architecture and Planning",
+        "url": "http://codes.iccsafe.org"
+    },
+    {
+        "linkedin_id": "74193434",
+        "name": "UD Trucks Thailand",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.udtrucks.com/thailand"
+    },
+    {
+        "linkedin_id": "11774809",
+        "name": "SodaStream Deutschland GmbH",
+        "industry": "Food and Beverage Manufacturing",
+        "url": "http://www.sodastream.de/"
+    },
+    {
+        "linkedin_id": "13326944",
+        "name": "Rosewood Luang Prabang",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/luang-prabang"
+    },
+    {
+        "linkedin_id": "2405050",
+        "name": "FOF K\u00f8benhavn",
+        "industry": "Education Administration Programs",
+        "url": "http://www.fofkbh.dk"
+    },
+    {
+        "linkedin_id": "56321",
+        "name": "PTC+",
+        "industry": "Education Administration Programs",
+        "url": "http://www.ptcplus.com"
+    },
+    {
+        "linkedin_id": "76639273",
+        "name": "Forever 21 M\u00e9xico",
+        "industry": "Retail",
+        "url": "https://forever21.com.mx/"
+    },
+    {
+        "linkedin_id": "20521476",
+        "name": "DR Power Equipment",
+        "industry": "Consumer Goods",
+        "url": "https://www.drpower.com/"
+    },
+    {
+        "linkedin_id": "1265794",
+        "name": "BERNARD - Groupe Raja",
+        "industry": "Retail Office Equipment",
+        "url": "http://bernard.fr"
+    },
+    {
+        "linkedin_id": "46121",
+        "name": "Chas. Hude",
+        "industry": "Legal Services",
+        "url": "http://www.chashude.com"
+    },
+    {
+        "linkedin_id": "1221217",
+        "name": "Herman Miller Inc",
+        "industry": "Furniture and Home Furnishings Manufacturing",
+        "url": "http://www.hermanmiller.com"
+    },
+    {
+        "linkedin_id": "241326",
+        "name": "Beurtvaartadres",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://www.beurtvaartadres.nl"
+    },
+    {
+        "linkedin_id": "57231",
+        "name": "Video Ezy",
+        "industry": "Entertainment Providers",
+        "url": "http://www.videoezy.com.au"
+    },
+    {
+        "linkedin_id": "3342332",
+        "name": "Energy Metrics",
+        "industry": "Information Technology & Services",
+        "url": "https://www.energymetricsllc.com"
+    },
+    {
+        "linkedin_id": "13192425",
+        "name": "Auto & General Services - Southeast Asia",
+        "industry": "Insurance",
+        "url": "http://www.budgetdirect.com.sg"
+    },
+    {
+        "linkedin_id": "11849419",
+        "name": "Henry Schein Dental BeLux",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "https://www.henryschein.be/"
+    },
+    {
+        "linkedin_id": "984855",
+        "name": "Kverneland Bil",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.kvernelandbil.no"
+    },
+    {
+        "linkedin_id": "4842653",
+        "name": "Bate",
+        "industry": "Real Estate",
+        "url": "http://www.bate.no"
+    },
+    {
+        "linkedin_id": "5379272",
+        "name": "Polaris Industries Inc. Group",
+        "industry": "Automotive",
+        "url": "http://www.polaris.com"
+    },
+    {
+        "linkedin_id": "9311577",
+        "name": "Astudy International Education - Anno Scolastico all'Estero",
+        "industry": "Education"
+    },
+    {
+        "linkedin_id": "10556688",
+        "name": "Bossard Poland",
+        "industry": "Mechanical Or Industrial Engineering",
+        "url": "http://www.bossard.com/pl"
+    },
+    {
+        "linkedin_id": "2721204",
+        "name": "Hard Rock Cafe Australia",
+        "industry": "Food & Beverages",
+        "url": "http://www.hardrock.com/cafes"
+    },
+    {
+        "linkedin_id": "2015133",
+        "name": "Sterngold Dental LLC",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "https://www.sterngold.com/"
+    },
+    {
+        "linkedin_id": "7783095",
+        "name": "Naturalizer",
+        "industry": "Retail",
+        "url": "http://naturalizer.com"
+    },
+    {
+        "linkedin_id": "26276850",
+        "name": "Toro.Deutschland",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.toro.com"
+    },
+    {
+        "linkedin_id": "2508751",
+        "name": "Co-operative Development Scotland",
+        "industry": "Government Relations Services",
+        "url": "http://www.scottish-enterprise.com/cds"
+    },
+    {
+        "linkedin_id": "79068778",
+        "name": "Maxmat",
+        "industry": "Construction",
+        "url": "https://www.maxmat.pt"
+    },
+    {
+        "linkedin_id": "11296974",
+        "name": "Glacier Express AG",
+        "industry": "Travel Arrangements",
+        "url": "http://www.glacierexpress.ch"
+    },
+    {
+        "linkedin_id": "19178634",
+        "name": "Fl\u00fcgger Sverige",
+        "industry": "Chemical Manufacturing",
+        "url": "http://www.flugger.se"
+    },
+    {
+        "linkedin_id": "2148327",
+        "name": "Interstate All Battery Center Franchising",
+        "industry": "Retail",
+        "url": "https://www.interstatebatteries.com/all-battery-centers"
+    },
+    {
+        "linkedin_id": "72738473",
+        "name": "Staples Benelux",
+        "industry": "Retail Office Equipment",
+        "url": "https://staples.nl/"
+    },
+    {
+        "linkedin_id": "82111215",
+        "name": "iShop Mixup",
+        "industry": "Retail",
+        "url": "http://www.ishopmixup.com"
+    },
+    {
+        "linkedin_id": "12109070",
+        "name": "Denon",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "https://www.denon.com/en-us/"
+    },
+    {
+        "linkedin_id": "17994866",
+        "name": "VEGA Messtechnik AG",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "http://www.vega.com"
+    },
+    {
+        "linkedin_id": "10597185",
+        "name": "Jaguar Land Rover Danmark",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.jaguar.dk"
+    },
+    {
+        "linkedin_id": "89553710",
+        "name": "Project Management Institute Japan",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.pmi.org/"
+    },
+    {
+        "linkedin_id": "71122910",
+        "name": "People Management Insight",
+        "industry": "Human Resources Services",
+        "url": "http://pminsight.cipd.co.uk/"
+    },
+    {
+        "linkedin_id": "25353062",
+        "name": "Mathon",
+        "industry": "Retail",
+        "url": "https://www.mathon.fr"
+    },
+    {
+        "linkedin_id": "9516503",
+        "name": "Henry Schein Dental Deutschland GmbH",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.henryschein-dental.de/"
+    },
+    {
+        "linkedin_id": "54115497",
+        "name": "BWT water+more France",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "https://www.bwt-wam.com/fr/Pages/default.aspx"
+    },
+    {
+        "linkedin_id": "10994881",
+        "name": "Saint-Gobain Distribution Denmark",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.sgdd.dk"
+    },
+    {
+        "linkedin_id": "8263",
+        "name": "Department",
+        "industry": "Manufacturing",
+        "url": "https://www.department56.com"
+    },
+    {
+        "linkedin_id": "42144206",
+        "name": "CIM Saskatoon Branch",
+        "industry": "Mining",
+        "url": "https://branches.cim.org/saskatoon/home/"
+    },
+    {
+        "linkedin_id": "21001",
+        "name": "Coastal Training Technologies",
+        "industry": "Media Production",
+        "url": "http://www.dupont.com"
+    },
+    {
+        "linkedin_id": "5189983",
+        "name": "Karbon Engineering Services",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.karbonengineering.com"
+    },
+    {
+        "linkedin_id": "4847631",
+        "name": "La Lorraine Bakery Group Nederland",
+        "industry": "Food and Beverage Services"
+    },
+    {
+        "linkedin_id": "970447",
+        "name": "VEGA n.v./s.a.",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "https://www.vega.com"
+    },
+    {
+        "linkedin_id": "2093927",
+        "name": "Egyptair tourism ( Karnak ) & Duty Free",
+        "industry": "Airlines and Aviation",
+        "url": "http://www.karnak.egyptair.com"
+    },
+    {
+        "linkedin_id": "9189966",
+        "name": "TechPeople",
+        "industry": "Computers and Electronics Manufacturing",
+        "url": "http://www.ishopmixup.com/ishop/techpeople.aspx"
+    },
+    {
+        "linkedin_id": "96623043",
+        "name": "Sheaffer Official",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "https://sheaffer.com/"
+    },
+    {
+        "linkedin_id": "2722840",
+        "name": "FOF Aarhus",
+        "industry": "Education Management",
+        "url": "http://www.fof-aarhus.dk"
+    },
+    {
+        "linkedin_id": "74250767",
+        "name": "BWT Polska",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "https://www.bwt.com/pl-pl/"
+    },
+    {
+        "linkedin_id": "91729326",
+        "name": "LEO Pharma M\u00e9xico",
+        "industry": "Pharmaceutical Manufacturing"
+    },
+    {
+        "linkedin_id": "80122825",
+        "name": "La Lorraine Polska",
+        "industry": "Food and Beverage Manufacturing",
+        "url": "https://www.llbg.com/pl-pl"
+    },
+    {
+        "linkedin_id": "80298508",
+        "name": "MeetDenmark",
+        "industry": "Events Services",
+        "url": "https://www.wonderfulcopenhagen.com/meetdenmark"
+    },
+    {
+        "linkedin_id": "35483474",
+        "name": "DuPont Transportation & Advanced Polymers (T&AP)",
+        "industry": "Chemical Manufacturing",
+        "url": "http://www.dupont.com/products-and-services/plastics-polymers-resins.html"
+    },
+    {
+        "linkedin_id": "8426199",
+        "name": "Placo Do Brasil Ltda.",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.placo.com.br"
+    },
+    {
+        "linkedin_id": "1545884",
+        "name": "Overland Sheepskin Co.",
+        "industry": "Retail",
+        "url": "http://www.overland.com"
+    },
+    {
+        "linkedin_id": "52950880",
+        "name": "Lincoln Electric Company of Canada LP",
+        "industry": "Machinery Manufacturing",
+        "url": "http://lincolnelectric.ca"
+    },
+    {
+        "linkedin_id": "1201385",
+        "name": "Gift Library",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "http://www.gift-library.com"
+    },
+    {
+        "linkedin_id": "2083641",
+        "name": "Designflooring International",
+        "industry": "Design Services",
+        "url": "http://www.designflooring.com"
+    },
+    {
+        "linkedin_id": "34074953",
+        "name": "Accentur India Private Limited",
+        "industry": "Consumer Services",
+        "url": "http://www.accenture.com"
+    },
+    {
+        "linkedin_id": "35479289",
+        "name": "UD Trucks Singapore",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.udtrucks.com/singapore"
+    },
+    {
+        "linkedin_id": "2042652",
+        "name": "Natural World Safaris",
+        "industry": "Leisure, Travel & Tourism",
+        "url": "http://www.naturalworldsafaris.com"
+    },
+    {
+        "linkedin_id": "13982208",
+        "name": "Oswald",
+        "industry": "Consumer Goods",
+        "url": "http://www.oswald.ch"
+    },
+    {
+        "linkedin_id": "11397667",
+        "name": "VisitVejle",
+        "industry": "Travel Arrangements",
+        "url": "http://www.visitvejle.com"
+    },
+    {
+        "linkedin_id": "13016814",
+        "name": "AC Forum",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.acforum.net/"
+    },
+    {
+        "linkedin_id": "1923473",
+        "name": "Kootenay Rockies Tourism Association",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.krtourism.ca/"
+    },
+    {
+        "linkedin_id": "67256865",
+        "name": "LINET Canada",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "https://www.linet.ca/en-CA"
+    },
+    {
+        "linkedin_id": "17948399",
+        "name": "Troldtekt GmbH",
+        "industry": "Wholesale Building Materials"
+    },
+    {
+        "linkedin_id": "14854987",
+        "name": "Kalamazoo Espa\u00f1a",
+        "industry": "Retail Office Equipment",
+        "url": "https://www.kalamazoo.es/"
+    },
+    {
+        "linkedin_id": "65412327",
+        "name": "Amway",
+        "industry": "Consumer Services",
+        "url": "https://www.amway.com/en_US/about-amway"
+    },
+    {
+        "linkedin_id": "71292061",
+        "name": "AML Certified PH",
+        "industry": "Technology, Information and Internet",
+        "url": "https://aml.certified.ph/"
+    },
+    {
+        "linkedin_id": "10597917",
+        "name": "Jaguar Land Rover Sverige",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.jaguar.se"
+    },
+    {
+        "linkedin_id": "17917755",
+        "name": "British MotorGroup K\u00f8benhavn",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.britishmotorgroup.dk/"
+    },
+    {
+        "linkedin_id": "10178250",
+        "name": "A-apoteket",
+        "industry": "Pharmaceutical Manufacturing",
+        "url": "http://www.a-apoteket.dk"
+    },
+    {
+        "linkedin_id": "2918851",
+        "name": "Bainbridge International Limited",
+        "industry": "Maritime Transportation",
+        "url": "http://www.Bainbridgeint.co.uk"
+    },
+    {
+        "linkedin_id": "20278680",
+        "name": "People Management Jobs, The official job board of CIPD",
+        "industry": "Human Resources",
+        "url": "https://pmjobs.cipd.co.uk/"
+    },
+    {
+        "linkedin_id": "22297983",
+        "name": "RI",
+        "industry": "Retail Apparel and Fashion"
+    },
+    {
+        "linkedin_id": "794993",
+        "name": "The Andersen Company",
+        "industry": "Textile Manufacturing",
+        "url": "http://www.andersenco.com"
+    },
+    {
+        "linkedin_id": "18347053",
+        "name": "FOREVER21_KOREA",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.forever21.co.kr/"
+    },
+    {
+        "linkedin_id": "365211",
+        "name": "Gelert Limited",
+        "industry": "Wholesale",
+        "url": "http://www.gelert.com"
+    },
+    {
+        "linkedin_id": "8303003",
+        "name": "Amway Corporation",
+        "industry": "Insurance",
+        "url": "http://www.amway.com/"
+    },
+    {
+        "linkedin_id": "78712038",
+        "name": "Bossard & KVT Austria / CEE",
+        "industry": "Wholesale",
+        "url": "https://www.bossard.com/at-de"
+    },
+    {
+        "linkedin_id": "1712070",
+        "name": "Kilden Teater- og Konserthus for S\u00f8rlandet",
+        "industry": "Entertainment Providers",
+        "url": "http://www.kilden.com"
+    },
+    {
+        "linkedin_id": "88952520",
+        "name": "CIPD Branch in West of Scotland",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk/learn/branches/west-scotland"
+    },
+    {
+        "linkedin_id": "76805",
+        "name": "Past Times",
+        "industry": "Retail",
+        "url": "http://www.pasttimes.com"
+    },
+    {
+        "linkedin_id": "35699057",
+        "name": "The CIPD Branch in South East Scotland",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk/learn/branches/se-scotland"
+    },
+    {
+        "linkedin_id": "86101776",
+        "name": "SunDay OKQ8",
+        "industry": "Solar Electric Power Generation"
+    },
+    {
+        "linkedin_id": "830716",
+        "name": "Fremskrittspartiet/Progress Party",
+        "industry": "Political Organizations",
+        "url": "http://www.frp.no"
+    },
+    {
+        "linkedin_id": "774818",
+        "name": "BBL",
+        "industry": "Accounting",
+        "url": "http://www.bblnett.no"
+    },
+    {
+        "linkedin_id": "2292652",
+        "name": "Nortech Control Systems Ltd.",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "http://www.nortechcontrol.com"
+    },
+    {
+        "linkedin_id": "30245924",
+        "name": "Budget Direct Insurance",
+        "industry": "Insurance",
+        "url": "https://www.budgetdirect.com.sg"
+    },
+    {
+        "linkedin_id": "1626919",
+        "name": "Spar Kj\u00f8p AS",
+        "industry": "Retail",
+        "url": "http://www.sparkjop.no"
+    },
+    {
+        "linkedin_id": "96118451",
+        "name": "From Poverty to Power",
+        "industry": "International Trade and Development",
+        "url": "https://frompoverty.oxfam.org.uk/"
+    },
+    {
+        "linkedin_id": "1480180",
+        "name": "Forbrugsforeningen",
+        "industry": "Consumer Services",
+        "url": "http://www.forbrugsforeningen.dk"
+    },
+    {
+        "linkedin_id": "31131480",
+        "name": "UD Trucks Malaysia",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.udtrucks.com/malaysia"
+    },
+    {
+        "linkedin_id": "2366415",
+        "name": "3chillies",
+        "industry": "IT Services and IT Consulting",
+        "url": "http://www.3chillies.co.uk"
+    },
+    {
+        "linkedin_id": "64642",
+        "name": "Penny Publications, LLC",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://pennydellpuzzles.com"
+    },
+    {
+        "linkedin_id": "76578003",
+        "name": "Mets\u00e4 Board Americas",
+        "industry": "Paper and Forest Product Manufacturing",
+        "url": "http://www.metsaboard.com"
+    },
+    {
+        "linkedin_id": "1757468",
+        "name": "Life's Abundance, Inc",
+        "industry": "Consumer Goods",
+        "url": "http://www.lifesabundance.com"
+    },
+    {
+        "linkedin_id": "2872295",
+        "name": "Kent Express Dental Supplies",
+        "industry": "Wholesale",
+        "url": "http://www.kentexpress.co.uk"
+    },
+    {
+        "linkedin_id": "3013369",
+        "name": "The Savile Row Company",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.savilerowco.com"
+    },
+    {
+        "linkedin_id": "18598274",
+        "name": "Nybolig Odense - Thomsen, Demirhan & Led",
+        "industry": "Real Estate"
+    },
+    {
+        "linkedin_id": "3222502",
+        "name": "iUniverse, LLC",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.iuniverse.com/default.aspx"
+    },
+    {
+        "linkedin_id": "1234113",
+        "name": "Yamaha Motor New Zealand Ltd",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.yamaha-motor.co.nz/"
+    },
+    {
+        "linkedin_id": "52504320",
+        "name": "DuPont Silicon Valley Technology Center",
+        "industry": "Research",
+        "url": "https://www.dupont.com/locations/innovation-center-silicon-valley.html"
+    },
+    {
+        "linkedin_id": "69930932",
+        "name": "CaseLogicNL",
+        "industry": "Computers and Electronics Manufacturing"
+    },
+    {
+        "linkedin_id": "9176643",
+        "name": "Balboa Press",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.balboapress.com/"
+    },
+    {
+        "linkedin_id": "123025",
+        "name": "Trumf AS",
+        "industry": "Marketing Services",
+        "url": "http://www.trumf.no"
+    },
+    {
+        "linkedin_id": "3028234",
+        "name": "Quba & Co Ltd",
+        "industry": "Retail Apparel and Fashion",
+        "url": "http://www.quba.com"
+    },
+    {
+        "linkedin_id": "10898075",
+        "name": "DOM-RONIS",
+        "industry": "Retail Office Equipment",
+        "url": "https://www.dom-security.com/fr/fr/industriels"
+    },
+    {
+        "linkedin_id": "123301",
+        "name": "Bien Sparebank ASA",
+        "industry": "Banking",
+        "url": "http://www.bien.no"
+    },
+    {
+        "linkedin_id": "5395649",
+        "name": "Bank2 ASA",
+        "industry": "Banking",
+        "url": "https://bank2.no"
+    },
+    {
+        "linkedin_id": "988680",
+        "name": "Alliant Energy Center",
+        "industry": "Facilities Services",
+        "url": "http://www.alliantenergycenter.com"
+    },
+    {
+        "linkedin_id": "72678761",
+        "name": "The CIPD Branch in Wessex",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk/learn/branches/wessex"
+    },
+    {
+        "linkedin_id": "137833",
+        "name": "Berkline LLC",
+        "industry": "Furniture and Home Furnishings Manufacturing",
+        "url": "http://www.berkline.com"
+    },
+    {
+        "linkedin_id": "74557640",
+        "name": "Agrifirm - Quartes",
+        "industry": "Farming",
+        "url": "http://www.agrifirm.be"
+    },
+    {
+        "linkedin_id": "72661617",
+        "name": "MEMO 2023 Conference & Trade Show - Saskatoon",
+        "industry": "Mining",
+        "url": "https://memo2023.cim.org/"
+    },
+    {
+        "linkedin_id": "10079995",
+        "name": "WestBow Press",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.westbowpress.com/"
+    },
+    {
+        "linkedin_id": "1494221",
+        "name": "Kaska Business Group",
+        "industry": "Manufacturing",
+        "url": "http://www.amway.com/jenae"
+    },
+    {
+        "linkedin_id": "96610808",
+        "name": "CIM Vancouver",
+        "industry": "Mining",
+        "url": "https://www.cim.org/subsites/branches/vancouver/"
+    },
+    {
+        "linkedin_id": "11300552",
+        "name": "A.W. Faber-Castell France",
+        "industry": "Consumer Goods",
+        "url": "https://www.faber-castell.fr"
+    },
+    {
+        "linkedin_id": "77607464",
+        "name": "IQABI Shoes",
+        "industry": "Retail",
+        "url": "http://iqabi.shoes.com"
+    },
+    {
+        "linkedin_id": "4300446",
+        "name": "Grimco",
+        "industry": "Wholesale",
+        "url": "http://www.Grimco.com/"
+    },
+    {
+        "linkedin_id": "69432490",
+        "name": "Estate Aarhus C",
+        "industry": "Construction",
+        "url": "https://www.estate.dk/"
+    },
+    {
+        "linkedin_id": "9176657",
+        "name": "Archway Publishing",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.archwaypublishing.com/"
+    },
+    {
+        "linkedin_id": "6591042",
+        "name": "HRUSA - A Division of CalChamber",
+        "industry": "Human Resources Services",
+        "url": "www.hrusa.com"
+    },
+    {
+        "linkedin_id": "1841039",
+        "name": "LTS France",
+        "industry": "Industrial Machinery Manufacturing"
+    },
+    {
+        "linkedin_id": "2564476",
+        "name": "BWT Nederland B.V.",
+        "industry": "Construction",
+        "url": "http://www.BWT.com"
+    },
+    {
+        "linkedin_id": "9412151",
+        "name": "J\u00e6ren Sparebank",
+        "industry": "Banking",
+        "url": "http://jaerensparebank.no/"
+    },
+    {
+        "linkedin_id": "48364829",
+        "name": "Corning Gosselin S.A.S",
+        "industry": "Plastics Manufacturing",
+        "url": "https://www.corning.com/worldwide/en.html"
+    },
+    {
+        "linkedin_id": "203620",
+        "name": "Aware",
+        "industry": "Technology, Information and Internet",
+        "url": "http://www.awareweb.com"
+    },
+    {
+        "linkedin_id": "313033",
+        "name": "DOM HOBERG NV/SA",
+        "industry": "Wholesale Building Materials",
+        "url": "https://www.dom-security.com/be/en"
+    },
+    {
+        "linkedin_id": "65647611",
+        "name": "Zenith Water",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "https://www.zenithwater.co.nz"
+    },
+    {
+        "linkedin_id": "1970096",
+        "name": "Clive Christian Harrods",
+        "industry": "Design"
+    },
+    {
+        "linkedin_id": "73422291",
+        "name": "CIM Newfoundland & Labrador Branch",
+        "industry": "Mining",
+        "url": "https://www.cim.org/subsites/branches/newfoundland-and-labrador/"
+    },
+    {
+        "linkedin_id": "72017658",
+        "name": "Staples UK",
+        "industry": "Retail Office Equipment",
+        "url": "https://www.staples.co.uk/"
+    },
+    {
+        "linkedin_id": "76131398",
+        "name": "INTERSPORT Norge",
+        "industry": "Retail",
+        "url": "http://www.intersport.no"
+    },
+    {
+        "linkedin_id": "89611899",
+        "name": "Micron Ventures",
+        "industry": "Venture Capital and Private Equity Principals",
+        "url": "https://www.micron.com/about/our-company/ventures"
+    },
+    {
+        "linkedin_id": "79162059",
+        "name": "Komatsu Nouvelle-Cal\u00e9donie",
+        "industry": "Machinery Manufacturing",
+        "url": "https://komatsu.com.au"
+    },
+    {
+        "linkedin_id": "80061184",
+        "name": "ICM Section de Qu\u00e9bec",
+        "industry": "Mining",
+        "url": "https://www.cim.org/"
+    },
+    {
+        "linkedin_id": "2036611",
+        "name": "Sweatshop",
+        "industry": "Retail",
+        "url": "http://www.sweatshop.co.uk"
+    },
+    {
+        "linkedin_id": "17978925",
+        "name": "Troldtekt Group",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.troldtekt.com"
+    },
+    {
+        "linkedin_id": "11789234",
+        "name": "OriginAir",
+        "industry": "Machinery Manufacturing",
+        "url": "http://originair.atlascopco.com/"
+    },
+    {
+        "linkedin_id": "28589379",
+        "name": "AS \u201eKesko Senukai Estonia\u201c",
+        "industry": "Retail",
+        "url": "https://www.k-rauta.ee/"
+    },
+    {
+        "linkedin_id": "1915272",
+        "name": "CM Almy a division of F.C. Ziegler Company",
+        "industry": "Consumer Goods",
+        "url": "https://www.almy.com"
+    },
+    {
+        "linkedin_id": "2459791",
+        "name": "SpofaDental a.s.",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.spofadental.com"
+    },
+    {
+        "linkedin_id": "79444932",
+        "name": "Bossard Malaysia",
+        "industry": "Wholesale",
+        "url": "https://www.bossard.com/my-en/"
+    },
+    {
+        "linkedin_id": "5491338",
+        "name": "Frozen Fish International Gmbh",
+        "industry": "Food and Beverage Manufacturing",
+        "url": "http://www.frozenfish.de"
+    },
+    {
+        "linkedin_id": "3800028",
+        "name": "Tyreright",
+        "industry": "Retail",
+        "url": "http://www.tyreright.com.au/"
+    },
+    {
+        "linkedin_id": "57803522",
+        "name": "Polaris Industries Inc",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://polaris.com"
+    },
+    {
+        "linkedin_id": "77055823",
+        "name": "BWT FRANCE EXPORT",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.bwt-group.com"
+    },
+    {
+        "linkedin_id": "62439878",
+        "name": "Carnival Liberty Cruise Ship",
+        "industry": "Hospitality",
+        "url": "https://www.carnival.com/"
+    },
+    {
+        "linkedin_id": "64570972",
+        "name": "Henry Schein Medical NL",
+        "industry": "Medical Device",
+        "url": "https://www.henryschein.nl/nl-nl/medisch/Default.aspx?did=medisch"
+    },
+    {
+        "linkedin_id": "31683688",
+        "name": "\u5e93\u5361\u673a\u5668\u4eba(\u4e0a\u6d77)\u6709\u9650\u516c\u53f8",
+        "industry": "Semiconductors",
+        "url": "http://www.kuka-robotics.com"
+    },
+    {
+        "linkedin_id": "93294782",
+        "name": "Grupo M\u00fcnkel",
+        "industry": "Magnetic and Optical Media Manufacturing"
+    },
+    {
+        "linkedin_id": "37402166",
+        "name": "LINET ASIA",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "https://www.linet.com/en/"
+    },
+    {
+        "linkedin_id": "82534455",
+        "name": "Faber-Castell (Malaysia)",
+        "industry": "Manufacturing",
+        "url": "https://www.faber-castell.com.my/"
+    },
+    {
+        "linkedin_id": "35677265",
+        "name": "Cirque du Soleil JOY\u00c0",
+        "industry": "Entertainment Providers",
+        "url": "https://www.cirquedusoleil.com/es/joya"
+    },
+    {
+        "linkedin_id": "5065052",
+        "name": "Skue Sparebank",
+        "industry": "Banking",
+        "url": "http://skuesparebank.no"
+    },
+    {
+        "linkedin_id": "91516545",
+        "name": "Ultra de Nicaragua S.A.",
+        "industry": "Security Systems Services"
+    },
+    {
+        "linkedin_id": "35466616",
+        "name": "ICC Sustainability Membership Council",
+        "industry": "Construction",
+        "url": "https://www.iccsafe.org/membership/membership-councils/sustainability-membership-council/"
+    },
+    {
+        "linkedin_id": "33470546",
+        "name": "Edstr\u00f6ms Verktyg AB",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://edstroms.com/verktyg"
+    },
+    {
+        "linkedin_id": "91588850",
+        "name": "CIM/ICM Northern Gateway Branch",
+        "industry": "Mining",
+        "url": "https://branches.cim.org/northern-gateway/home/"
+    },
+    {
+        "linkedin_id": "148075",
+        "name": "Rice Hall James & Associates, LLC",
+        "industry": "Investment Management",
+        "url": "http://www.ricehalljames.com"
+    },
+    {
+        "linkedin_id": "1538851",
+        "name": "MECA Norway AS",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.meca.no"
+    },
+    {
+        "linkedin_id": "92714826",
+        "name": "The CIPD Branch in Northern Ireland",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk/learn/branches/northern-ireland#gref"
+    },
+    {
+        "linkedin_id": "1894449",
+        "name": "Steimatzky",
+        "industry": "Retail",
+        "url": "http://www.steimatzky.co.il"
+    },
+    {
+        "linkedin_id": "80529315",
+        "name": "Palio Flooring by Karndean",
+        "industry": "Wholesale Building Materials",
+        "url": "https://www.palioflooring.com/en-gb/"
+    },
+    {
+        "linkedin_id": "29690385",
+        "name": "\u9676\u6c0f\u5316\u5b66(\u4e2d\u56fd)\u6295\u8d44\u6709\u9650\u516c\u53f8",
+        "industry": "Business Consulting and Services",
+        "url": "http://dow.com/greaterchina/ch/"
+    },
+    {
+        "linkedin_id": "71336295",
+        "name": "BWT Germany - International Sales",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "http://www.bwt.com"
+    },
+    {
+        "linkedin_id": "6819796",
+        "name": "La Lorraine",
+        "industry": "",
+        "url": "http://lalorraine.be"
+    },
+    {
+        "linkedin_id": "16680787",
+        "name": "BOOKER CASH & CARRY LIMITED",
+        "industry": ""
+    },
+    {
+        "linkedin_id": "18989351",
+        "name": "wissner-bosserhoff - UK",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.wi-bo.com/en-WI"
+    },
+    {
+        "linkedin_id": "5189318",
+        "name": "Odal Sparebank",
+        "industry": "Banking",
+        "url": "http://odal-sparebank.no"
+    },
+    {
+        "linkedin_id": "1482491",
+        "name": "PMI Slovakia Chapter",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.pmi.org/chapters/slovakia"
+    },
+    {
+        "linkedin_id": "79688197",
+        "name": "The CIPD Branch in Jersey",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk/learn/branches/jersey#gref"
+    },
+    {
+        "linkedin_id": "42107908",
+        "name": "Akershusgruppen",
+        "industry": "Restaurants",
+        "url": "https://www.akershusgruppen.no/"
+    },
+    {
+        "linkedin_id": "75642534",
+        "name": "ICAO AVSEC Regional TC - Cairo, Egypt",
+        "industry": "Airlines and Aviation",
+        "url": "http://training.egyptair.com"
+    },
+    {
+        "linkedin_id": "33693015",
+        "name": "British Standard Institutions",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "http://www.bsigroup.com"
+    },
+    {
+        "linkedin_id": "68015241",
+        "name": "Rosewood Venice",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/venice"
+    },
+    {
+        "linkedin_id": "80053429",
+        "name": "The CIPD Branch in North Scotland and Islands",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk/learn/branches/north-scot-islands#gref"
+    },
+    {
+        "linkedin_id": "2032643",
+        "name": "Logo Mats",
+        "industry": "Textile Manufacturing",
+        "url": "http://www.logomatsllc.com"
+    },
+    {
+        "linkedin_id": "6237074",
+        "name": "ANSYS Japan K.K.",
+        "industry": "Software Development",
+        "url": "http://www.ansys.com/ja-JP"
+    },
+    {
+        "linkedin_id": "4437514",
+        "name": "Build A Bear",
+        "industry": "Consumer Services",
+        "url": "http://www.buildabear.com/"
+    },
+    {
+        "linkedin_id": "19571587",
+        "name": "England and Wales Cricket Board (ECB)",
+        "industry": "Sports Teams and Clubs",
+        "url": "https://www.ecb.co.uk/"
+    },
+    {
+        "linkedin_id": "80025449",
+        "name": "Purity Pet Food",
+        "industry": "Manufacturing",
+        "url": "http://www.puritypetfood.com"
+    },
+    {
+        "linkedin_id": "13714315",
+        "name": "Adult Education Wolverhampton",
+        "industry": "Education",
+        "url": "http://www.aes.wolverhampton.gov.uk"
+    },
+    {
+        "linkedin_id": "840942",
+        "name": "Larvikbanken",
+        "industry": "Banking",
+        "url": "http://www.larvikbanken.no"
+    },
+    {
+        "linkedin_id": "10973509",
+        "name": "British MotorGroup Stockholm",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.britishmotorgroup.se"
+    },
+    {
+        "linkedin_id": "81310944",
+        "name": "wissner-bosserhoff US",
+        "industry": "Medical Device",
+        "url": "https://www.wi-bo.com/en-US/"
+    },
+    {
+        "linkedin_id": "37571340",
+        "name": "BWT Sweden",
+        "industry": "Mechanical Or Industrial Engineering",
+        "url": "https://www.bwt.com/sv-se/"
+    },
+    {
+        "linkedin_id": "2970084",
+        "name": "Totens Sparebank",
+        "industry": "Banking",
+        "url": "http://www.totenbanken.no/"
+    },
+    {
+        "linkedin_id": "7246468",
+        "name": "Bergans Outdoor GmbH",
+        "industry": "Sporting Goods",
+        "url": "http://www.bergans.com/de"
+    },
+    {
+        "linkedin_id": "75503730",
+        "name": "Hjem.dk",
+        "industry": "Manufacturing",
+        "url": "http://www.hjem.dk"
+    },
+    {
+        "linkedin_id": "16253757",
+        "name": "The Horse: Your Guide to Equine Health Care",
+        "industry": "Book and Periodical Publishing",
+        "url": "https://www.thehorse.com"
+    },
+    {
+        "linkedin_id": "10592829",
+        "name": "Jaguar Land Rover Norge",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://www.jaguar.no"
+    },
+    {
+        "linkedin_id": "76542001",
+        "name": "The CIPD branch in Lincolnshire",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk"
+    },
+    {
+        "linkedin_id": "12178622",
+        "name": "Sensotec nv",
+        "industry": "Software Development",
+        "url": "https://www.pro.sensotec.com/"
+    },
+    {
+        "linkedin_id": "17978009",
+        "name": "Troldtekt AB",
+        "industry": "Wholesale Building Materials",
+        "url": "http://www.troldtekt.se"
+    },
+    {
+        "linkedin_id": "76626771",
+        "name": "Swatch Argentina",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "https://www.swatch.com/es-ar/homepage"
+    },
+    {
+        "linkedin_id": "24005224",
+        "name": "Hard Rock",
+        "industry": "",
+        "url": "https://www.hardrock.com"
+    },
+    {
+        "linkedin_id": "56468018",
+        "name": "The Kingdom of Saudi Arabia Project For Utilization of Hady & Adahi",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.adahi.org"
+    },
+    {
+        "linkedin_id": "5550314",
+        "name": "Harrod Horticultural",
+        "industry": "Retail",
+        "url": "https://www.harrodhorticultural.com/trade-enquiries-pgid1336.html"
+    },
+    {
+        "linkedin_id": "25029030",
+        "name": "PMI La Crosse - Rochester Chapter",
+        "industry": "Non-profit Organizations",
+        "url": "https://www.pmi.org/chapters/lacrosse-rochester"
+    },
+    {
+        "linkedin_id": "2924762",
+        "name": "Partridge India",
+        "industry": "Book and Periodical Publishing",
+        "url": "http://www.partridgepublishing.com/india"
+    },
+    {
+        "linkedin_id": "10024623",
+        "name": "3DSIM (Acquired by ANSYS, December 2017)",
+        "industry": "Software Development",
+        "url": "http://3dsim.com/"
+    },
+    {
+        "linkedin_id": "2972187",
+        "name": "MerxTeam",
+        "industry": "Wholesale Import and Export",
+        "url": "https://merxteam.com/"
+    },
+    {
+        "linkedin_id": "96483688",
+        "name": "Atlas Copco Certified Pre-Owned North America",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "https://usedcr.atlascopco.com/"
+    },
+    {
+        "linkedin_id": "1456623",
+        "name": "VisitSilkeborg",
+        "industry": "Travel Arrangements"
+    },
+    {
+        "linkedin_id": "12088477",
+        "name": "Kitchen Collection",
+        "industry": "Retail",
+        "url": "http://kitchencollection.co.uk"
+    },
+    {
+        "linkedin_id": "1311136",
+        "name": "Exhausto AB",
+        "industry": "Building Materials",
+        "url": "http://www.exhausto.se"
+    },
+    {
+        "linkedin_id": "26225484",
+        "name": "Branch ABCDM do PMI S\u00e3o Paulo",
+        "industry": "Professional Training and Coaching",
+        "url": "https://www.pmi.org/"
+    },
+    {
+        "linkedin_id": "2956753",
+        "name": "ALFA+",
+        "industry": "Telecommunications",
+        "url": "https://alfa.online.com.ni/Pages/index.aspx"
+    },
+    {
+        "linkedin_id": "34889404",
+        "name": "OUTLET AUBONNE",
+        "industry": "Retail",
+        "url": "https://www.outlet-aubonne.ch/"
+    },
+    {
+        "linkedin_id": "80101403",
+        "name": "NYBOLIG AARHUS NORD",
+        "industry": "Real Estate",
+        "url": "https://www.nybolig.dk/ejendomsmaeglere/oestjylland/nybolig-aarhus-nord?"
+    },
+    {
+        "linkedin_id": "15226256",
+        "name": "Serit Troms\u00f8",
+        "industry": "Information Technology & Services",
+        "url": "https://serit.no/avdelinger/serit-tromso/"
+    },
+    {
+        "linkedin_id": "5947149",
+        "name": "Taylor Morrison of Florida, Inc.",
+        "industry": "",
+        "url": "http://www.taylormorrison.com/"
+    },
+    {
+        "linkedin_id": "9873277",
+        "name": "GAMESTOP INC",
+        "industry": "Retail",
+        "url": "https://www.gamestop.com/"
+    },
+    {
+        "linkedin_id": "79162096",
+        "name": "LTO Noord Vrouw & Bedrijf",
+        "industry": "Farming",
+        "url": "https://www.ltonoord.nl/vrouw-en-bedrijf"
+    },
+    {
+        "linkedin_id": "28604432",
+        "name": "The CIPD Branch in Tees Valley",
+        "industry": "Human Resources",
+        "url": "https://www.cipd.co.uk/learn/branches/tees-valley"
+    },
+    {
+        "linkedin_id": "8166592",
+        "name": "Vestas France SAS",
+        "industry": "Environmental Services",
+        "url": "http://www.vestas.com/"
+    },
+    {
+        "linkedin_id": "1149609",
+        "name": "NAIOP- Colorado Chapter",
+        "industry": "Real Estate",
+        "url": "http://www.NAIOP.org"
+    },
+    {
+        "linkedin_id": "510751",
+        "name": "Mindworks Communications",
+        "industry": "Advertising Services",
+        "url": "http://www.wyanokegroup.com"
+    },
+    {
+        "linkedin_id": "33253913",
+        "name": "Nybolig Palle \u00d8rtoft",
+        "industry": "Real Estate",
+        "url": "https://www.nybolig.dk/ejendomsmaeglere/nordjylland/nybolig-palle-oertoft-hasseris"
+    },
+    {
+        "linkedin_id": "10877804",
+        "name": "Infragistics Uruguay",
+        "industry": "Information Technology & Services",
+        "url": "http://www.infragistics.com"
+    },
+    {
+        "linkedin_id": "18812181",
+        "name": "APICS Student Chapter @ UTA",
+        "industry": "Education Administration Programs",
+        "url": "https://www.apics.org/credentials-education/credentials/?gclid=CjwKCAjwxILdBRBqEiwAHL2R8ywieLHaiquxgOjnDbD_l6g0uUSBGEp9Hf_eWnyB2JsVKFTIrP_MLBoC2yEQAvD_BwE"
+    },
+    {
+        "linkedin_id": "11847884",
+        "name": "Coop.dk",
+        "industry": "",
+        "url": "https://shopping.coop.dk/"
+    },
+    {
+        "linkedin_id": "2374130",
+        "name": "Deublin Ltd",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "https://www.deublin.com"
+    },
+    {
+        "linkedin_id": "78832944",
+        "name": "Australian Motorcycle & Marine Finance",
+        "industry": "Financial Services",
+        "url": "https://www.ammf.com.au/"
+    },
+    {
+        "linkedin_id": "6245758",
+        "name": "Hegra Sparebank",
+        "industry": "Banking",
+        "url": "http://www.hegrasparebank.no"
+    },
+    {
+        "linkedin_id": "664321",
+        "name": "PLCHardware.com",
+        "industry": "Automation Machinery Manufacturing",
+        "url": "https://www.plchardware.com"
+    },
+    {
+        "linkedin_id": "971400",
+        "name": "Center for IT Innovations in Healthcare",
+        "industry": "Hospitals and Health Care",
+        "url": "http://citih.osumc.edu/"
+    },
+    {
+        "linkedin_id": "26203753",
+        "name": "minetilbud",
+        "industry": "Online Audio and Video Media",
+        "url": "https://minetilbud.dk/"
+    },
+    {
+        "linkedin_id": "69707903",
+        "name": "The CIPD Branch in West Yorkshire",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk/learn/branches/west-yorkshire"
+    },
+    {
+        "linkedin_id": "74408124",
+        "name": "Nybolig Aarhus City",
+        "industry": "Real Estate",
+        "url": "https://www.nybolig.dk/ejendomsmaeglere/oestjylland/nybolig-aarhus-city"
+    },
+    {
+        "linkedin_id": "41340600",
+        "name": "DELACAMP Aktiengesellschaft",
+        "industry": "Retail Office Equipment",
+        "url": "http://www.delacamp.com"
+    },
+    {
+        "linkedin_id": "77091762",
+        "name": "South American Trendy",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "http://www.swatch.com/es-ar"
+    },
+    {
+        "linkedin_id": "98446254",
+        "name": "Rock Engineering Society - Canadian Institute of Mining, Metallurgy, and Petroleum (CIM)",
+        "industry": "Mining",
+        "url": "https://www.cim.org/subsites/societies/society-for-rock-engineering-res/"
+    },
+    {
+        "linkedin_id": "4016352",
+        "name": "Interstate Battery",
+        "industry": "Business Supplies & Equipment",
+        "url": "http://www.interstatebattery.com"
+    },
+    {
+        "linkedin_id": "100097349",
+        "name": "Abacus Idea",
+        "industry": "Media Production",
+        "url": "https://idea.abacus.coop/"
+    },
+    {
+        "linkedin_id": "69167794",
+        "name": "Bossard Australia",
+        "industry": "Transportation, Logistics, Supply Chain and Storage",
+        "url": "https://www.bossard.com/global-en/about-us/company/australia/"
+    },
+    {
+        "linkedin_id": "28648986",
+        "name": "CIPD Mid Scotland Branch",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk/learn/branches/mid-scotland"
+    },
+    {
+        "linkedin_id": "16085749",
+        "name": "Budge Industries, LLC",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://budgeindustries.com"
+    },
+    {
+        "linkedin_id": "73916947",
+        "name": "EXHAUSTO Norge",
+        "industry": "Industrial Machinery Manufacturing",
+        "url": "https://www.exhausto.no/"
+    },
+    {
+        "linkedin_id": "51896214",
+        "name": "Romsdalsbanken",
+        "industry": "Banking",
+        "url": "http://www.romsdalsbanken.no"
+    },
+    {
+        "linkedin_id": "69641601",
+        "name": "Skagerrak Sparebank",
+        "industry": "Banking",
+        "url": "http://www.skagerraksparebank.no"
+    },
+    {
+        "linkedin_id": "385314",
+        "name": "Polek & Polek",
+        "industry": "Wholesale",
+        "url": "http://www.polek.com"
+    },
+    {
+        "linkedin_id": "65692794",
+        "name": "WHSmiths",
+        "industry": "Retail",
+        "url": "https://www.whsmith.co.uk/"
+    },
+    {
+        "linkedin_id": "15153519",
+        "name": "Copenhagen Cooking",
+        "industry": "Food and Beverage Services",
+        "url": "http://www.copenhagencooking.dk"
+    },
+    {
+        "linkedin_id": "90847957",
+        "name": "The CIPD in Mid Scotland",
+        "industry": "Human Resources Services",
+        "url": "https://www.cipd.co.uk/learn/branches/mid-scotland#gref"
+    },
+    {
+        "linkedin_id": "86670596",
+        "name": "Hard Rock Cafe La Paz",
+        "industry": "Restaurants"
+    },
+    {
+        "linkedin_id": "90661253",
+        "name": "NAIOP of Ohio",
+        "industry": "Real Estate",
+        "url": "https://www.naiop.org/ohio"
+    },
+    {
+        "linkedin_id": "10078116",
+        "name": "Hard Rock Cafe - San Jose, Costa Rica",
+        "industry": "Restaurants",
+        "url": "http://www.hardrock.com/cafes/san-jose/"
+    },
+    {
+        "linkedin_id": "79390473",
+        "name": "Henry Schein Dental Austria",
+        "industry": "Medical Equipment Manufacturing",
+        "url": "http://www.henryschein.at"
+    },
+    {
+        "linkedin_id": "943736",
+        "name": "NovaSol",
+        "industry": "Defense & Space",
+        "url": "http://www.nova-sol.com"
+    },
+    {
+        "linkedin_id": "98078337",
+        "name": "Owens & Minor Nogales",
+        "industry": "Medical Equipment Manufacturing"
+    },
+    {
+        "linkedin_id": "92941601",
+        "name": "Healio | HemOnc Today",
+        "industry": "Newspaper Publishing",
+        "url": "https://www.healio.com/news/hematology-oncology"
+    },
+    {
+        "linkedin_id": "1878557",
+        "name": "Georg Jensen Inc.",
+        "industry": "Retail Luxury Goods and Jewelry",
+        "url": "http://www.georgjensenusa.com"
+    },
+    {
+        "linkedin_id": "1268828",
+        "name": "Selbu Sparebank",
+        "industry": "Banking",
+        "url": "http://www.selbusparebank.no"
+    },
+    {
+        "linkedin_id": "23981645",
+        "name": "Askim & Spydeberg Sparebank",
+        "industry": "Banking",
+        "url": "http://asbank.no"
+    },
+    {
+        "linkedin_id": "8978465",
+        "name": "GLATZ Klischee GmbH",
+        "industry": "Packaging and Containers Manufacturing",
+        "url": "http://www.glatz.at"
+    },
+    {
+        "linkedin_id": "22850243",
+        "name": "Carlsen Fritz\u00f8e Handel AS",
+        "industry": "Wholesale Building Materials",
+        "url": "https://www.carlsenfritzoe.no/"
+    },
+    {
+        "linkedin_id": "31377615",
+        "name": "THE CONRAN SHOP PROFESSIONAL PARIS",
+        "industry": "Design Services",
+        "url": "https://www.conranshop.fr/conran-contracts-service-professionnel/"
+    },
+    {
+        "linkedin_id": "18576147",
+        "name": "XRGO",
+        "industry": "IT Services and IT Consulting",
+        "url": "https://xrgo.io/"
+    },
+    {
+        "linkedin_id": "114021",
+        "name": "Eidsberg Sparebank",
+        "industry": "Banking",
+        "url": "http://www.esbank.no"
+    },
+    {
+        "linkedin_id": "36582",
+        "name": "roundpeg-inc",
+        "industry": "Higher Education",
+        "url": "http://roundpeg.com"
+    },
+    {
+        "linkedin_id": "8766498",
+        "name": "Grong Sparebank",
+        "industry": "Banking",
+        "url": "http://www.grong-sparebank.no"
+    },
+    {
+        "linkedin_id": "11195574",
+        "name": "Orl\u00e9ans Express",
+        "industry": "Truck Transportation",
+        "url": "https://www.orleansexpress.com/"
+    },
+    {
+        "linkedin_id": "65927379",
+        "name": "Espa\u00e7o do Revendedor O Botic\u00e1rio",
+        "industry": "Personal Care Product Manufacturing",
+        "url": "http://revendedor.boticario.com.br"
+    },
+    {
+        "linkedin_id": "70467040",
+        "name": "Serit H\u00e5logaland",
+        "industry": "Information Technology & Services",
+        "url": "https://serit.no/avdelinger/serit-harstad/"
+    },
+    {
+        "linkedin_id": "88945947",
+        "name": "Estate Allebo",
+        "industry": "Real Estate Agents and Brokers"
+    },
+    {
+        "linkedin_id": "4037955",
+        "name": "Jaguar Land Rover Stockholm",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "http://www.britishmotorgroup.se"
+    },
+    {
+        "linkedin_id": "13436569",
+        "name": "Rosewood Mandarina",
+        "industry": "Hospitality",
+        "url": "https://www.rosewoodhotels.com/en/mandarina"
+    },
+    {
+        "linkedin_id": "38150885",
+        "name": "Giti Tire",
+        "industry": "Motor Vehicle Manufacturing",
+        "url": "https://giti.com"
+    },
+    {
+        "linkedin_id": "86050",
+        "name": "SPEEDSEND",
+        "industry": "Retail Office Equipment",
+        "url": "http://www.speedsend.com"
+    },
+    {
+        "linkedin_id": "13028184",
+        "name": "Halfords NL",
+        "industry": "Retail",
+        "url": "https://www.halfords.nl"
+    },
+    {
+        "linkedin_id": "648010",
+        "name": "AmeriStamp",
+        "industry": "Printing Services",
+        "url": "http://www.ameristamp.com"
+    },
+    {
+        "linkedin_id": "59474138",
+        "name": "GEORGIA-PACIFIC CORRUGATED III LLC",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "url": "https://www.gp.com/"
+    },
+    {
+        "linkedin_id": "12092040",
+        "name": "SAKATA",
+        "industry": "",
+        "url": "http://www.sakata.com"
+    },
+    {
+        "linkedin_id": "71904554",
+        "name": "HT School",
+        "industry": "E-Learning Providers",
+        "url": "https://htschool.hindustantimes.com/"
+    },
+    {
+        "linkedin_id": "1395589",
+        "name": "Hielan Management",
+        "industry": "Restaurants",
+        "url": "http://www.chilis.com"
+    },
+    {
+        "linkedin_id": "68063310",
+        "name": "CIM Toronto",
+        "industry": "Mining",
+        "url": "https://www.cim.org/subsites/branches/toronto/"
+    },
+    {
+        "linkedin_id": "11107549",
+        "name": "ESRS-CIM-ICM",
+        "industry": "Mining",
+        "url": "https://www.cim.org/en/Societies-and-Branches/Societies/Environmental-and-Social-Responsibility-Society/Vision-Mission.aspx"
+    },
+    {
+        "linkedin_id": "10848696",
+        "name": "Assistel inc.",
+        "industry": "Individual and Family Services",
+        "url": "http://www.assistel.com"
+    },
+    {
+        "linkedin_id": "5708540",
+        "name": "Volvo Merchandise",
+        "industry": "Retail",
+        "url": "https://shop.volvogroup.com/"
+    }
+]
