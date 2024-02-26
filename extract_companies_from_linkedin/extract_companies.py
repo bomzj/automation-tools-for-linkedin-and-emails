@@ -73,9 +73,7 @@ def next_company(page: Page):
 
                 # Wait until search result is fully loaded
                 search_result.locator('[data-anonymize="company-name"]').wait_for()
-            except Exception as e:
-                print('Search result not found.')
-                print(traceback.format_exc())
+            except:
                 return None
             
             # Go to company details page
@@ -107,7 +105,7 @@ with sync_playwright() as playwright:
     print('Successfully logged in!')
     
     # Check if manual verification is required and wait for user input
-    if re.search(r'checkpoint', page.url):
+    if not re.search(r'feed', page.url):
         print('Waiting until manual verification is done...')
 
     page.wait_for_url("**/feed/**", timeout=0)
@@ -120,25 +118,18 @@ with sync_playwright() as playwright:
     print('Start parsing companies...')
     
     try:
-        output_file = open('companies.json', 'w', 1) 
         companies = []
 
         for company in next_company(page):
             companies.append(company)
-            
-            # dump companies regularly to output file to avoid data loss in case of an exception
-            if len(companies) % 25 == 0:
-                output_file.seek(0)
-                json.dump(companies, output_file, indent=4)
         
-        output_file.seek(0)
-        json.dump(companies, output_file, indent=4)
         print('Parsing finished sucessfully!')
     except Exception as e:
         print(f'An error occurred at page {page_num(page)}.')
         print(traceback.format_exc())
     finally:
+        with open('companies.json', 'w') as output_file:
+            json.dump(companies, output_file, indent=4)
         print(f'{len(companies)} companies were parsed and saved to "companies.json" file.')
-        output_file.close()
 
     browser.close()
