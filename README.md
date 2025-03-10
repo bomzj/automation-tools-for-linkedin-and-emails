@@ -11,6 +11,9 @@ The Linkedin Company Extractor is an automation tool that allows users to scrape
 
 [Learn more](./linkedin-company-extractor/README.md)
 
+### 2. Email Scraper
+The Email Scraper extracts email addresses for companies and updates the companies.json file (initially created by the LinkedIn Company Extractor) with this data.
+
 ## Usage
 
 To use any of the projects in this repository, please refer to their respective README files located in each project's folder.
