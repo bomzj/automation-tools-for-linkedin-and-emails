@@ -1,7 +1,7 @@
 from scrapy.crawler import CrawlerProcess, Crawler
 from scrapy.utils.project import get_project_settings
 from scrapy import signals
-import json, sys
+import json, sys, os
 from email_spider import EmailSpider, domain
 
 def update_companies_with_emails(file_path, spider):
@@ -43,8 +43,10 @@ if not start_urls:
     print("No URLs found in the input file")
     sys.exit(1)
 
-print(f"Starting to crawl {len(start_urls)} URLs...")
+# Let Scrapy know where the settings module is
+os.environ['SCRAPY_SETTINGS_MODULE'] = 'settings'
 
+print(f"Starting to crawl {len(start_urls)} URLs...")
 process = CrawlerProcess(get_project_settings())
 process.crawl(EmailSpider, start_urls=start_urls)
 crawler: Crawler = list(process.crawlers)[0]
