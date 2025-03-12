@@ -1,7 +1,6 @@
 from collections import defaultdict
 import scrapy
 from scrapy.linkextractors import LinkExtractor
-import re
 from urllib.parse import urlparse, urlunparse
 
 class EmailSpider(scrapy.Spider):
@@ -31,10 +30,9 @@ class EmailSpider(scrapy.Spider):
     def parse(self, response):
         current_domain = domain(response.url)
 
-        # Extract emails using regex
-        email_domain = current_domain.replace('www.', '')
-        email_pattern = rf'[\w\.-]+@{email_domain}'
-        emails = re.findall(email_pattern, response.text)
+        # Use the efficient email extraction function, 
+        # NOTE: regex is very slow against whole response
+        emails = extract_emails(response.text, current_domain)
         
         # Only yield emails that haven't been found yet
         for email in emails:
@@ -62,10 +60,11 @@ class EmailSpider(scrapy.Spider):
             # Prioritize links containing keywords
             prioritized_links = prioritize_links(links, self.priority_url_keywords)
             
-            for link in prioritized_links:
-                # Double-check we're not exceeding the limit
-                if self.pages_crawled_per_domain[current_domain] < self.max_pages_per_domain:
-                    yield scrapy.Request(link.url, callback=self.parse)
+            # How many requests we could send to this domain
+            links_limit = self.max_pages_per_domain - self.pages_crawled_per_domain[current_domain]
+            
+            for link in prioritized_links[:links_limit]:
+                yield scrapy.Request(link.url, callback=self.parse)
 
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
@@ -93,24 +92,53 @@ def ensure_urls_valid(urls):
     return valid_urls
 
 def prioritize_links(links, priority_keywords):
-    """Sort links based on highest priority keyword found
+    """Sort links based on highest priority keyword found in the URL path.
     
-    1. Only checks for first matching keyword
-    2. Priority is based on keyword position in priority_keywords list
-    3. URLs without any keyword match have lowest priority
+    1. Only checks the URL path for the first matching keyword.
+    2. Priority is based on the keyword position in the priority_keywords list.
+    3. URLs whose paths don't match any keyword have the lowest priority.
     """
     def priority_score(link):
-        url = link.url.lower()
-        
-        # Check each keyword in order
+        path = urlparse(link.url).path.lower()
         for index, keyword in enumerate(priority_keywords):
-            if keyword.lower() in url:
-                # Return index (position) in the keywords list
+            if keyword.lower() in path:
                 # Lower index means higher priority
                 return index
-                
         # If no keywords match, return a value higher than any index
         return len(priority_keywords) + 1
     
-    # Sort links by priority score (lower is better)
     return sorted(links, key=priority_score)
+
+def extract_emails(text, domain):
+    target = "@" + domain.replace('www.', '')
+    # Allowed characters for the email username (based on [\w\.-])
+    allowed_chars = set("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_.-")
+    emails = set()
+    pos = 0
+    target_len = len(target)
+    
+    while True:
+        # Use str.find to locate the target pattern which is fast in C
+        pos = text.find(target, pos)
+        if pos == -1:
+            break
+        
+        # Ensure the match is exact:
+        # Check that the character right after the domain is not part of the email
+        end_idx = pos + target_len
+        if end_idx < len(text) and text[end_idx] in allowed_chars:
+            pos += target_len  # skip if the domain continues (e.g. matching "example.com" in "example.com.au")
+            continue
+
+        # Walk backwards from the '@' sign to extract the email username
+        start = pos - 1
+        while start >= 0 and text[start] in allowed_chars:
+            start -= 1
+        
+        username = text[start + 1: pos]
+        if username:
+            emails.add(username + target)
+        
+        pos += target_len  # Continue searching after this occurrence
+    
+    return emails
