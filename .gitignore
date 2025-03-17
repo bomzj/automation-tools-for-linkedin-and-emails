@@ -1,2 +1,5 @@
 extract_companies_from_linkedin/config.json
 *.pyc
+token.json
+credentials.json
+*.pdf

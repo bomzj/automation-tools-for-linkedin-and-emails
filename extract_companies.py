@@ -90,10 +90,17 @@ def next_company(page: Page):
         if is_last_page(page): break
         else: next_page(page)
 
-######### MAIN #######################
 
-with open('config.json', 'r') as config_file:
-    config = json.load(config_file)
+## Settings
+
+linkedin_email = "your_linkedin_email",
+linkedin_password = "your_linkedin_password",
+
+# Linkedin Sales Navigator companies search results page URL
+start_url = "https://www.linkedin.com/sales/search/company?query=(spellCorrectionEnabled%3Atrue%2Ckeywords%3Asitecore)"
+
+
+## MAIN
 
 with sync_playwright() as playwright:
     print('Launching Chrome browser...')
@@ -101,7 +108,7 @@ with sync_playwright() as playwright:
     page = browser.new_page(no_viewport = True)
     
     print('Logging in...')
-    login(page, config['email'], config['password'])
+    login(page, linkedin_email, linkedin_password)
     print('Successfully logged in!')
     
     # Check if manual verification is required and wait for user input
@@ -113,7 +120,7 @@ with sync_playwright() as playwright:
     # Go to search results page
     print('Navigating to search results page.')
     random_sleep(6, 10)
-    page.goto(config['start_url'])
+    page.goto(start_url)
     
     print('Start parsing companies...')
     

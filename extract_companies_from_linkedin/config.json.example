@@ -1,6 +1,0 @@
-{
-  "email": "your_linkedin_email",
-  "password": "your_linkedin_password",
-  
-  "start_url": "https://www.linkedin.com/sales/search/company?query=(spellCorrectionEnabled%3Atrue%2Ckeywords%3Asitecore)"
-}
