@@ -108,7 +108,7 @@ def most_relevant_email_or_default(emails, keywords):
         return None
 
     def score(email):
-        prefix = email.split('@')[0]
+        prefix = email.split('@')[0].lower()
         
         # Check for exact matches
         for i, keyword in enumerate(keywords):
@@ -161,11 +161,10 @@ priority_email_keywords = [
     "general",
     "inquiry",
     "office"
-],
+]
 
 # Email template that is used for sending emails to companies
-email_subject = \
-    "Sitecore Development for {company} Performance Boost"
+email_subject = "Sitecore Development for {company} Performance Boost"
 
 email_body = (
     "Hi,\n\n"
