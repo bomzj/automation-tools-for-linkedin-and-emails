@@ -227,7 +227,7 @@ for company in companies:
     result = send_email(service, 'me', email)
 
     if result:
-        print(f"Email sent to {to} successfully. Message ID: {result['id']}")
+        print(f"Email sent to {to} successfully.")
     else:
         print(f"An error occurred sending email to {to}.")
 
