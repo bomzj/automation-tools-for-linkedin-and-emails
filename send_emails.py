@@ -104,27 +104,26 @@ def send_email(service, user_id, message):
         return None
     
 def most_relevant_email_or_default(emails, keywords):
-    # Handle empty emails list
     if not emails:
         return None
 
-    # Define scoring function
     def score(email):
-        # Extract prefix (part before '@')
         prefix = email.split('@')[0]
         
-        # Check each keyword in order
+        # Check for exact matches
         for i, keyword in enumerate(keywords):
-            
-            # If keyword is a substring of the prefix, return its index
-            if keyword in prefix:
-                return i
+            if prefix == keyword:
+                return i  # Score is just the index for exact match
         
-        # If no keyword matches, return length of keywords
-        return len(keywords)
+        # Check for partial matches
+        for i, keyword in enumerate(keywords):
+            if keyword in prefix:
+                return i + 0.5  # Add small penalty for partial match
+        
+        # No match
+        return len(keywords) * 2  # Large score for no match
 
-    # Return email with the smallest score
-    return min(emails, key=score)
+    return min(emails, key=score)  # Select email with lowest score
 
 
 ## Settings
