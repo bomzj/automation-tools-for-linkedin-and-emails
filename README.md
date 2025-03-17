@@ -64,17 +64,17 @@ Send mails to companies listed in `companies.json` with Gmail API by using perso
 
 ### Setup
 
-1. Setup Gmail API
-  1.1 Create a Google Cloud project https://developers.google.com/workspace/guides/create-project#project
+#### Setup Gmail API
+  
+1. Create a Google Cloud project https://developers.google.com/workspace/guides/create-project#project
 
-  1.2 Enable Gmail API for this project https://developers.google.com/gmail/api/quickstart/python#enable_the_api
+2. Enable Gmail API for this project https://developers.google.com/gmail/api/quickstart/python#enable_the_api
 
-  1.3 Configure the OAuth consent screen https://developers.google.com/gmail/api/quickstart/python#configure_the_oauth_consent_screen
+3. Configure the OAuth consent screen https://developers.google.com/gmail/api/quickstart/python#configure_the_oauth_consent_screen
 
-  1.4 Authorize credentials for a desktop application https://developers.google.com/gmail/api/quickstart/python#authorize_credentials_for_a_desktop_application
+4. Authorize credentials for a desktop application https://developers.google.com/gmail/api/quickstart/python#authorize_credentials_for_a_desktop_application
 
-  1.5 Install the Google client library 
-  https://developers.google.com/gmail/api/quickstart/python#install_the_google_client_library
+5. Install the Google client library https://developers.google.com/gmail/api/quickstart/python#install_the_google_client_library
 
 
 ### How to use
