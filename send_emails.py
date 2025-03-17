@@ -103,7 +103,7 @@ def send_email(service, user_id, message):
         print(f"An error occurred: {error}")
         return None
     
-def most_relevant_email(emails, keywords):
+def most_relevant_email_or_default(emails, keywords):
     # Handle empty emails list
     if not emails:
         return None
@@ -206,11 +206,13 @@ if not companies:
 creds = None
 
 for company in companies:
-    recipient = most_relevant_email(company['emails'], priority_email_keywords)
-    
-    # Skip if no email found
-    if not recipient: continue
+    emails = company.get('emails')
 
+    # Skip if no email found
+    if not emails: continue
+
+    recipient = most_relevant_email_or_default(emails, priority_email_keywords)
+    
     # Special value indicating the authenticated user to avoid emails being flagged with warning 
     sender = "me"
     to = recipient 
