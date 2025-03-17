@@ -117,7 +117,7 @@ def most_relevant_email_or_default(emails, keywords):
         for i, keyword in enumerate(keywords):
             
             # If keyword is a substring of the prefix, return its index
-            if keyword[i] in prefix:
+            if keyword in prefix:
                 return i
         
         # If no keyword matches, return length of keywords
